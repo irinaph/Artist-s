@@ -2,7 +2,7 @@
 **Phase 2: Discovery · 2026-11-21 · draft v1**
 **Built from:** my self-interview (`my-past-attempts.md`), practitioner accounts (`artists-way-practitioners.md`), habit-tracker complaints (`user-complaints.md`) and the competitor scan (`competitors.md`).
 **Focus:** only what matters for doing the course: goals, frustrations, daily context, past attempts. No demographics beyond what changes behavior.
-**Status:** ⚠️ marks gaps only I can fill. Everything else traces to a source.
+**Status:** gaps filled from my answers on 2026-11-21. Everything traces to a source.
 
 ---
 
@@ -15,7 +15,8 @@ Someone who wants to get to know herself again and find her way back to making t
 - Has a **specific creative wish** she hasn't acted on (e.g. going to an exhibition). *(my-past-attempts)*
 - Uses a **dated paper notebook** for the pages, and wants to keep writing by hand. *(my-past-attempts; brief)*
 - A **designer by profession**: notices friction, guilt-tripping copy and inaccessible UI immediately. *(product-designer-persona)*
-- ⚠️ **Creative medium(s):** what does she make, or want to make? (drawing, painting, writing, photography…)
+- **Multi-passionate:** drawing and painting, writing, photography and visual work, crafts, singing, video and cinematography. *(my answers, 2026-11-21)* Her themes and ideas will jump between media, so nothing in the app can assume one.
+- Has a **concrete creative goal** this time. *(my answers)*
 
 ## Goals
 1. **Get to know herself again:** see which moods, themes and ideas keep returning. *"The morning pages were a tool to get to know myself again."*
@@ -35,9 +36,8 @@ Someone who wants to get to know herself again and find her way back to making t
 | **Homework overload:** too many rules and tasks make the 12 weeks feel like a second job | practitioners F2 |
 
 ## Daily context
-- **Mornings:** ⚠️ what time does she write, for how long, and what usually interrupts it?
-- **Where:** ⚠️ where does she write (kitchen table, bed, commute)? Is the phone nearby while she writes?
-- **Phone habits:** ⚠️ does she want the app to be the first thing she opens, or something she checks later in the day?
+- **Mornings vary a lot:** no fixed time or place for the pages. *(my answers)*
+- **She opens the app whenever she remembers,** not at a set moment; often not right after writing. *(my answers)* So logging may happen hours later, or the next day.
 - **Week:** responsibilities crowd out free blocks; a **small** artist date (30 minutes) is realistic, a half-day is not. *(my-past-attempts; brief)*
 
 ## How she did the course before
@@ -50,10 +50,13 @@ Someone who wants to get to know herself again and find her way back to making t
 
 **The pattern:** both attempts died early, for **emotional and permission reasons, not logistics**. Others stall in weeks 2–5 for the same reasons. *(practitioners F1)*
 
+**What's different about attempt 3** *(my answers)*: a **calmer life phase**, **having the app** (patterns were what was missing), **lower expectations** (small dates and short mornings are fine), and a **concrete creative goal**.
+
 ## What she needs from the app (and what would make her quit)
 | She needs | She'd quit if |
 |---|---|
 | One tap after writing, under 5 s; a short morning still counts | It asks her to type her pages or proves she wrote 3 full pages |
+| To log pages whenever she remembers, including yesterday's | It nags, or a late log counts as "missed" |
 | To name her own mood, themes and one idea in ~10 s, only when she wants | It reads, labels or judges her writing |
 | To see patterns build up over weeks, and what her artist dates produce | The pattern view feels like a report card, or shows nothing for weeks with no explanation |
 | Gentle permission in weeks 1–4, and a calm next step on heavy days | The copy is preachy, therapy-like, or relentlessly upbeat |
@@ -79,8 +82,12 @@ When answering *as the user*, speak in first person, honestly and a little self-
 ## Optional second archetype (portfolio)
 Not written yet. The strongest candidate from research is **the time-starved parent**: same permission and time barriers, with stronger guilt about "non-productive" time (practitioners F2). Write it only if the case study needs a second perspective.
 
+## What this means for design (candidates, not yet decided)
+1. **Log late without penalty.** With no fixed slot and "whenever I remember", "Pages done" must work later in the day and for **yesterday** (a quick backfill), with neutral wording ("Pages done", not "this morning").
+2. **"Remembering to open the app" is now the biggest risk.** Decided in Phase 3 (project-plan); this persona makes it critical. Explore gentle cues there (home-screen shortcut, an evening nudge she switches on herself), not streak pressure.
+3. **Medium-neutral capture.** Themes and ideas stay free text (with my own past tags as suggestions), never a fixed list of art forms; artist-date suggestions span media.
+4. **Connect the patterns to the concrete goal.** The pattern view could show which ideas relate to her goal. Needs the goal first (open question).
+
 ## Open questions
-1. ⚠️ Creative medium(s)
-2. ⚠️ Morning routine: time, length, interruptions, where
-3. ⚠️ Is the phone nearby when writing; when would she open the app?
-4. ⚠️ Anything about the third attempt that's different this time (timing, motivation, support)?
+1. What is the concrete creative goal, in a sentence? (Optional; helps candidate 4.)
+2. Second archetype for the portfolio: write it now or skip?
