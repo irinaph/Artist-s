@@ -39,7 +39,7 @@ personal use + portfolio case study · a companion for the 12-week course · mob
 - [x] **Persona** focused only on doing the course (not demographics): goals, frustrations, daily context, past attempts → `research/persona.md`
   - [x] Primary: me (real data from my own mornings and past attempts at the course). v4 2026-11-21: all design candidates decided (logged in Decisions); open questions 2–3 left in the file
   - [ ] Optional: one more archetype for the portfolio story
-- [ ] **User journey with mental model:** for each step, note what happened, what was expected, what they think, what they feel → `research/journey.md`
+- [ ] **User journey with mental model:** for each step, note what happened, what was expected, what they think, what they feel → `research/journey.md` (draft v1 2026-11-21, waiting for my review)
 - [ ] **Persona walkthrough:** have the agent role-play the persona through competitor onboarding + habit-creation flows on Mobbin, screenshot each step, analyze reactions → artifact
 - [ ] **Fresh-eyes review:** spawn 5 independent designer subagents with only the brief + persona + journey → `research/synthesis.md` (where do all 5 agree? what are the outliers?)
 - [ ] **Scope the MVP:** confirm the v1 feature list; park everything else in `ideas.md`
