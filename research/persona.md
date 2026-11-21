@@ -1,12 +1,12 @@
 # Persona: The Returning Creative (primary: me)
-**Phase 2: Discovery · 2026-11-21 · draft v2** (revised after an independent review the same day)
+**Phase 2: Discovery · 2026-11-21 · draft v3** (v2 revised after an independent review; v3 adds my open answers)
 **Built from:** my self-interview and follow-up answers (`my-past-attempts.md`), practitioner accounts (`artists-way-practitioners.md`), habit-tracker complaints (`user-complaints.md`) and the competitor scan (`competitors.md`).
 **Focus:** only what matters for doing the course: goals, frustrations, daily context, past attempts. No demographics beyond what changes behavior.
 
 ## How strong is the evidence?
 | Tag | What it is | Trust |
 |---|---|---|
-| **[me]** | My self-interview (2026-11-15, summarized from memory) and 4 follow-up answers (2026-11-21) | High for *me*, but n = 1, from memory, and only covers days 1–10 |
+| **[me]** | My self-interview (2026-11-15, summarized from memory) and follow-up answers (2026-11-21, multiple-choice + 5 open answers) | High for *me*, but n = 1, from memory, and only covers days 1–10 |
 | **[others]** | Practitioner blogs and app reviews | Medium: real voices, but bloggers are more committed than average; *not yet seen in me* |
 | **[assumption]** | PM inference, to test | Low until confirmed |
 
@@ -15,17 +15,19 @@
 ---
 
 ## In one sentence
-Someone who wants to get to know herself again and find direction for her creative plans, who has tried the course twice and stopped within the first ten days: once because creative play felt like it wasn't for someone with her responsibilities, once because the pages surfaced anger she couldn't regroup from. [me]
+Someone with a busy life and a persistent urge to create, who writes pages when she needs to unload rather than every day, and wants the app to help turn what surfaces after the unloading into creative direction. She has tried the course twice and stopped within the first ten days: once because creative play felt like it wasn't for someone with her responsibilities, once because the pages surfaced anger she couldn't regroup from. [me]
 
 ## Who she is (as it affects the course)
 - Has **read the book** and wants to practice it; this is a third attempt. [me] *(project-plan, "Book" decision)*
 - A **designer by profession**, building the app herself. [me] *(CLAUDE.md)* This is also a bias: see "Why she might quit anyway".
 - **Multi-passionate:** drawing and painting, writing, photography and visual work, crafts, singing, video and cinematography. [me]
 - Uses a **dated paper notebook** for the pages. [me]
+- **Not writing pages regularly now:** only **when she feels the emotional need**. [me] The daily habit isn't there yet; the pages are a release valve.
+- Writes in **Bulgarian and English**, and wants both for her notes. [me]
 - **Past vs now:**
   - **In past attempts** she felt "too old, with too many responsibilities" for creative play, and responsibilities pushed out the one artist date she wanted (an exhibition). [me]
-  - **Now** her life phase is **calmer**, her expectations are **lower**, and she has a **concrete creative goal** (not yet stated). [me]
-  - **Unknown:** whether the permission guilt is still there. This decides how strong the weeks 1–4 permission framing should be.
+  - **Now** life is **busier, not calmer**, but the **desire and inspiration to create are still there**: that's why this project exists. Her expectations are **lower**, and she has a **concrete creative goal** (not yet stated). [me]
+  - **So the permission and time barriers are likely still strong** [assumption from her answer]. The weeks 1–4 permission framing and small artist dates matter as much as ever.
 
 ## Her goals
 1. **Get to know herself again:** see which moods, themes and ideas keep returning. [me]
@@ -42,6 +44,7 @@ Someone who wants to get to know herself again and find direction for her creati
 | **Permission** (in past attempts): creative play felt like it wasn't "for" someone her age with her responsibilities | my-past-attempts F2 |
 | **Time:** responsibilities pushed out the artist date, even with a specific wish | my-past-attempts F2 |
 | **Emotional weight:** the pages surfaced anger about her life phase, and nothing helped her regroup | my-past-attempts F2 |
+| **Busy life now:** less time than before, not more | my-past-attempts, open answers |
 
 **Common in others, not yet seen in me** [others]
 | Frustration | Source |
@@ -53,6 +56,7 @@ Someone who wants to get to know herself again and find direction for her creati
 
 ## Daily context
 - **Mornings vary a lot:** no fixed time or place for the pages. [me]
+- **She writes when she needs to,** not on a schedule. [me]
 - **She opens the app whenever she remembers,** not at a set moment. [me] So a log may come hours later, or the next day.
 - **Her one constant is the paper notebook** [assumption from the two answers above]: it's the only thing present every time she writes.
 - **Artist dates:** the brief's "a small date counts (e.g. 30 minutes)" is a product decision, not something she said.
@@ -67,24 +71,31 @@ Someone who wants to get to know herself again and find direction for her creati
 
 **The pattern:** both attempts ended early, for **emotional and permission reasons, not logistics**. [me] Practitioners also stall early, mostly in weeks 2–5 (F1), for similar reasons (F2). [others]
 
-**What's different about attempt 3** [me]: a calmer life phase, having the app (patterns were what was missing), lower expectations, and a concrete creative goal.
+**What's different about attempt 3** [me]: having the app (patterns were what was missing), lower expectations, a concrete creative goal, and a desire to create that survived a *busier* life. (An earlier answer, "a calmer life phase", was withdrawn.)
 
 ## Her stance on reading the pages
 - She **wants richer analysis** eventually: quick summaries of her entries "gathered in a sort of graph" [me, my-past-attempts], and an AI handwriting scan in the long run [me, `ideas.md`].
 - Her line is **control and timing, not AI itself:** the 10-second note for now; any reading of pages opt-in, after week 8, pages she picks. [me, project-plan 2026-11-21]
 
+## How she'd use the pattern view
+- **Open any time**, freely. [me]
+- **Nudged at specific moments** [me]:
+  - when a **new pattern is detected** (she compares it to Apple Health's trend alerts)
+  - **weekly**, following the course rhythm
+- She sees it as **a helping hand to crystallize inspirations**, especially after a heavy page has been unloaded. [me]
+
 ## Through the 12 weeks
 | Stretch | What we know | Evidence | Open |
 |---|---|---|---|
-| **Days 1–10** | Both her attempts ended here: permission, time, anger | [me] | How does it feel this time, in a calmer phase? |
+| **Days 1–10** | Both her attempts ended here: permission, time, anger | [me] | How does it feel this time, with a busier life but a lasting urge to create? |
 | **Weeks 2–5** | Where most practitioners stall: snowballing missed days, the artist date dropped first | [others] | — |
 | **Weeks 6–12** | Nothing | none | Everything: energy, boredom, what she'd want from the pattern view |
-| **A heavy day** | The pages surfaced anger and she couldn't regroup | [me] | What did she do next? What should the app *not* do then? |
+| **A heavy day** | The pages surfaced anger. **Once she'd unloaded everything, ideas started to flow more freely.** She wants the app to help **crystallize those inspirations** | [me] | What should the app *not* do in that moment? (not answered yet) |
 | **Week 12** | Course complete moment (product decision) | brief | What would feel like a real ending to her? |
 
 ## Why she might quit anyway (assumptions to test)
 Even if the app is well designed:
-1. **The gap feels too big.** She forgets for 4 days, and opening the app now means facing the gap.
+1. **The gap feels too big.** She forgets for 4 days, and opening the app now means facing the gap. *More likely now: she only writes when she needs to, and life is busier.*
 2. **Logging a mood means facing it.** In a heavy week, naming the mood is the hard part, not the tap.
 3. **The patterns say nothing new.** By week 3 the pattern view only repeats what she already knew.
 4. **She writes for the tag.** Knowing she'll name a theme starts to steer the pages. *(practitioners F4)*
@@ -98,7 +109,9 @@ Even if the app is well designed:
 | To log whenever she remembers, without it counting as missed | [me] |
 | To name her own mood, themes and one idea, only when she wants | [me] self-interview |
 | To see patterns build up, including what her dates produce | [me] |
-| Support on heavy days that helps her regroup | [me] attempt 2 |
+| On heavy days, room to unload first, then help catching the ideas that come after | [me] open answers |
+| Pattern view any time, plus nudges when a new pattern appears and weekly | [me] open answers |
+| Notes in Bulgarian and English | [me] open answers |
 | A way back after a gap with no penalty | [others] + [assumption] quit reason 1 |
 | Accessible, calm UI | Project criteria (brief), not something she named |
 
@@ -107,13 +120,15 @@ Even if the app is well designed:
 - Speak in first person as **someone doing the course**, not as a designer reviewing the app. Give design critique only when asked.
 - Answer only from the evidence above. If it doesn't cover the question, say **"I haven't got that far"** or "I don't know yet", rather than inventing an answer.
 - Past attempts were hard; don't make her sound more motivated or more agreeable than the evidence shows.
-- Language: answer in the language the question is asked in (open question for captures).
+- Language: answer in the language the question is asked in. She writes her notes in both Bulgarian and English.
 
 **Her words** (close paraphrases; the self-interview file records them as summaries):
 - *"It feels like I'm too old or have too many responsibilities to focus on such fun creative activities."*
 - *"I was angry with the phase of life I was at and couldn't regroup constructively."*
 - *"The morning pages were a tool to get to know myself again."*
 - *"Tracking my thought patterns would feel very useful and give me direction for future creative plans."*
+- *"Life is not calmer by any means, the opposite, but the desire and inspiration to create is still here."*
+- *"When I felt I'd laid down all I needed to get off my shoulders, I started finding it easier to flow freely through ideas."*
 
 **Test scenarios** (use these to check the role-play stays honest):
 1. Day 3, after an angry page. She opens the app.
@@ -127,19 +142,21 @@ Even if the app is well designed:
 2. **Remembering to open the app.** Explore a **cue on the paper side** in Phase 3, since the notebook is her only constant (e.g. a card in the cover that points to the app), plus a home-screen shortcut. Reminders stay parked (`ideas.md`): research shows cues tied to a routine beat reminders, and a web app has no reliable push (`user-complaints.md` F3).
 3. **Medium-neutral capture.** Keep the terms apart: a **theme** is what the pages were about ("work", "my sister"); an **idea** is a creative idea and may name a medium ("film the street at dusk"). Both free text, with her own past entries as suggestions; artist-date suggestions span media.
 4. ~~Connect the patterns to the concrete goal~~ → **parked** until the goal is known: it adds a goal record and an onboarding step, and risks a report-card feel.
+5. **Heavy day → "what's clearer now?"** *(adjusts a decided item)* Today's decision is a calm "one constructive next step" prompt. Her answer suggests a better order: let her unload first, then invite **one idea or insight that came up after**. Same moment, softer and more creative. Fits "not a mental-health tool".
+6. **Pattern nudges (new scope).** Her ask: free access, plus nudges when a new pattern appears and weekly.
+   - **Weekly:** show the week's patterns inside the **day-7 check-in**, which already exists. Small.
+   - **New pattern detected:** a card shown **inside the app when she opens it** (no push; reminders stay parked), using simple rules on her own notes (e.g. a theme 3+ times in a week, a mood shift), **no AI**. Moderate.
+   - **Tension:** the brief says the pattern view is low-key with no pushed insights in weeks 1–2. Detection would start from week 3.
+7. **Bulgarian and English notes.** Free text in either language. Tag suggestions show her own past tags in both. "работа" and "work" would count as two themes unless she can **merge** them (small, manual). Phase 4: fonts must support Cyrillic. UI language is a separate question (English-only for v1 unless decided otherwise).
+8. **Irregular writing is normal, not a failure** *(reinforces decided items)*: she writes when she needs to. No streaks, weeks never lock, and the comeback moment matters more than ever.
 
 ## Optional second archetype (portfolio)
 Not written. The strongest candidate from research is **the time-starved parent**: same permission and time barriers, with stronger guilt about "non-productive" time (practitioners F2). Write it only if the case study needs a second perspective.
 
 ## Open questions (for me)
-**Most important**
-1. Am I writing morning pages now? (The checklist asks for real data from my own mornings.)
-2. Does the "too old / too many responsibilities" feeling still hold now that life is calmer?
-3. After the angry pages, what did I actually do, and what should an app *not* do in that moment?
-4. When do I picture opening the pattern view: daily, on day 7, or only when I feel stuck?
-5. Will I write captures in Bulgarian or English?
-
-**Also useful**
-6. What's the concrete creative goal, and should the app know about it at all?
-7. What has reliably reminded me to keep a habit before?
-8. Would finishing 6 weeks with real insight count as success?
+*Answered 2026-11-21: current practice, permission now, heavy days, pattern view, language (see `my-past-attempts.md` addendum).*
+1. On a heavy day, what should the app *not* do?
+2. What's the concrete creative goal, and should the app know about it at all?
+3. What has reliably reminded me to keep a habit before?
+4. Would finishing 6 weeks with real insight count as success?
+5. UI language: English only for v1, or Bulgarian too?

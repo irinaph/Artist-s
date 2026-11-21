@@ -73,3 +73,14 @@ Four multiple-choice questions, answered in the persona session.
 | What's different about this third attempt? | A calmer life phase, having the app, lower expectations, a concrete creative goal (goal not stated yet) |
 
 **Limits:** chosen from given options (plus my own additions for media), not open-ended; no detail yet on the goal.
+
+### Open answers (2026-11-21, after the persona review)
+| Question | My answer (lightly edited) |
+|---|---|
+| Am I writing morning pages now? | Not regularly; **only when I feel the emotional need** |
+| Does "too old / too many responsibilities" still hold? | **Life is not calmer at all, the opposite.** But the desire and inspiration to create are still here, hence this project |
+| After the angry pages, what did I do? | **Once I'd laid down everything I needed to get off my shoulders, ideas started to flow more freely.** That's where the analysis should help: **crystallize the inspirations** |
+| When would I open the pattern view? | **Free access any time**, but **nudged at specific moments**: when a new pattern is detected (like Apple Health's trend alerts) or weekly, following the book |
+| Notes in Bulgarian or English? | **Both** |
+
+**Correction:** the multiple-choice answer "a calmer life phase" above is **withdrawn**; life is busier, not calmer.
