@@ -60,3 +60,16 @@ Paper couldn't give me a quick overview of **themes, moods and ideas** across en
 - Do other practitioners want to see patterns across their pages, or does that feel like it breaks the practice?
 
 → Answered 2026-11-16 in `artists-way-practitioners.md`: yes to both, with nuances (the stall window runs to weeks 3–5).
+
+---
+
+## Addendum: follow-up answers (2026-11-21, for the persona)
+Four multiple-choice questions, answered in the persona session.
+| Question | My answer |
+|---|---|
+| What do I make, or want to make? | Drawing / painting, writing, photography / visual, crafts / making, singing, video, cinematography |
+| When and where will I write the pages? | It varies a lot (no fixed slot) |
+| When would I open the app? | Whenever I remember |
+| What's different about this third attempt? | A calmer life phase, having the app, lower expectations, a concrete creative goal (goal not stated yet) |
+
+**Limits:** chosen from given options (plus my own additions for media), not open-ended; no detail yet on the goal.
