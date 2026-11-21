@@ -46,7 +46,7 @@ personal use + portfolio case study · a companion for the 12-week course · mob
 - [ ] **Handoff:** `HANDOFF.md` + `project-scope.md` + a first prompt for the Design session
 
 ## Phase 3 — UX flows (session: *Design*)
-- [ ] Map the core flows: **start the course** · **pages tap + 10 s capture** · **pattern view** · **artist date (plan/done)** · **weekly check-in** · **early support, weeks 1–4** · **light 12-week path** → `design/flows.md`
+- [ ] Map the core flows: **start the course** · **pages tap + 10 s capture** · **pattern view** · **artist date (plan/done + "what came out of it?" note)** · **weekly check-in** · **early support, weeks 1–4** · **light 12-week path** → `design/flows.md`
 - [ ] Pattern research with 3 parallel Mobbin researchers, one per moment:
   - [ ] onboarding / starting a program
   - [ ] one-tap daily check-in

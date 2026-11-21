@@ -31,6 +31,10 @@
 - **A shorter morning counts as "Pages done" (2026-11-21):** people who finished often shrank the pages; a quiet option with neutral wording, never the default ask, so the book's three pages stay the norm.
 - **Pattern view low-key in weeks 1–2 (2026-11-21):** visible from day 1, with an empty state until captures build up and no pushed insights; keeps writing and reviewing apart, echoing the book's wait-before-rereading advice.
 - **Heavy-day copy says an early dip is normal (2026-11-21):** expressive-writing research shows a short-term rise in distress before benefits; our own words, written in Phase 4.
+- **Competitor analysis, the field (2026-11-21):** every morning-pages app is typed-first; their pattern insights come from AI reading the pages (OpenAI, 500+ words, accuracy openly imperfect); one app now has artist dates, but none has the 12-week course or early-weeks support. (`research/competitors.md`)
+- **Artist-date "what came out of it?" note in the MVP (2026-11-21):** marking an artist date done offers an optional one-sentence note that feeds the pattern view, so I see my ideas next to what I acted on; it directly serves "direction for creative plans". No photos in v1 (storage, extra build).
+- **The 10-second note is how v1 builds patterns (2026-11-21):** works on a short morning, nothing to feel judged by, and the app never sees the pages in v1.
+- **AI handwriting scan parked for later (2026-11-21):** I want richer analysis long term; parked because it's a big build, it overlaps the market leader, and reading the pages needs care with the book's no-rereading period. Conditions in `ideas.md`.
 - **Not a mental-health tool (2026-11-15):** the pages can surface heavy feelings; the app responds with calm copy and an optional "one constructive next step," never therapy-like features.
 
 ### Superseded by the reconcept (kept for the case study)

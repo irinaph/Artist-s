@@ -29,6 +29,7 @@ You write by hand, as the book asks. Afterwards, the app takes about ten seconds
 | **Getting to know myself again** (me) | Optional **10-second capture** after the tap: **mood**, **1–2 themes**, **one idea** |
 | **Direction for creative plans** (me) | A **pattern view**: moods over time, recurring themes, collected ideas. Low-key in weeks 1–2 (empty state, no pushed insights) |
 | **Artist date**, weekly | Plan it (an optional idea) → mark it done. **A small date counts** (e.g. 30 minutes) |
+| **Seeing what the practice produces** (me) | When an artist date is done: an optional **"what came out of it?"** note (one sentence), shown in the pattern view next to my ideas |
 | Permission to create (me: "too old, too busy") | Gentle framing in our own words, strongest in weeks 1–4 and tapering off |
 | Hard days (me: anger, couldn't regroup) | When I log a heavy mood, a calm, optional prompt to note one constructive next step |
 | **12 weeks, each with a theme** | A **light path frame**: which week I'm in and its theme. Not the main screen |
@@ -40,11 +41,11 @@ You write by hand, as the book asks. Afterwards, the app takes about ten seconds
 Morning: write pages on paper → tap "Pages done" (under 5 s)
           → optional 10 s capture: mood · themes · one idea
           ↓
-Week: plan & take a (small) artist date
+Week: plan & take a (small) artist date → optional "what came out of it?" note
           ↓
 Day 7: weekly check-in (invited) → the path moves on with the calendar
           ↓
-Over time: the pattern view shows my moods, themes and ideas → direction for creative plans
+Over time: the pattern view shows my moods, themes, ideas and what came out of my dates → direction for creative plans
           ↓
 Week 12: course complete moment
 ```
@@ -63,7 +64,7 @@ Week 12: course complete moment
 - Start the course: pick a start date (week 1 begins)
 - **Today:** one-tap "Pages done" (a shorter morning counts too) → optional 10 s capture (mood, 1–2 themes, one idea)
 - **Pattern view:** moods over time, recurring themes, collected ideas; low-key in weeks 1–2
-- **Artist date:** plan (an optional idea) / done; small dates count
+- **Artist date:** plan (an optional idea) / done; small dates count; optional "what came out of it?" note (text only, no photos in v1)
 - **Early support, weeks 1–4 (tapering):** permission framing; a calm "one constructive next step" prompt on heavy days, saying an early dip is normal
 - **Weekly check-in** on day 7: prefilled + a short reflection. Invited, never required; weeks never lock
 - **Light 12-week path:** current week and theme
@@ -78,6 +79,8 @@ Week 12: course complete moment
 - Recording weekly tasks (parked in v2: my attempts never got that far; the capture takes its place)
 - Community; closer to the book: a small private "creative cluster"
 - Opening the app to core users
+- **AI handwriting scan** for richer analysis: opt-in, after week 8 (conditions in `ideas.md`)
+- Photos for the artist-date note
 - Reminders / notifications · typed pages · rereading prompts after the course · repeating the course
 
 ## Constraints
@@ -101,3 +104,4 @@ Week 12: course complete moment
 - **Start day:** my own start date; the weekly check-in falls on day 7
 - **Tasks:** ~~own words or suggestions~~ → parked in v2 (`ideas.md`)
 - **Re-centered (v2):** from "the app holds the path" to "the app reflects my patterns back to me"
+- **Creative output (2026-11-21):** the artist date gets an optional "what came out of it?" note; the AI handwriting scan is parked for later

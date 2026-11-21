@@ -9,6 +9,15 @@ Things outside the MVP. Each has the user problem behind it and when to revisit.
   - **Revisit:** after a few weeks of real use. Am I actually wanting to share?
 
 ## Later
+- **AI handwriting scan for richer analysis** — added 2026-11-21
+  - **What:** photograph handwritten pages; AI reads them to find moods, themes and thought paths in more depth than the 10-second note.
+  - **User problem:** the note only gives the headlines; I'd like to follow trains of thought across pages.
+  - **Why parked:** a big build (OCR, AI, storage of private text); the market leader already does it (`research/competitors.md`); its own FAQ admits the insights can be wrong and feel judging.
+  - **Conditions if revived:** opt-in, never the default; only **after week 8** (the book advises against rereading the pages early on); I pick which pages; on-device processing where possible; text deleted after analysis unless I keep it; the 10-second note stays as the light path.
+  - **Positioning impact:** "the app never reads your pages" becomes "nothing is read unless you choose".
+  - **Revisit:** after my 12 weeks, once I know whether the notes alone gave me enough.
+- **Photos for the artist-date "what came out of it?" note** — added 2026-11-21
+  - **Why parked:** storage and extra build; text first.
 - **Recording weekly tasks** — parked 2026-11-15 (brief v2)
   - **Why parked:** my past attempts never got that far; the pattern capture took its place as the second core feature.
   - **Rule if revived:** own words or our own suggestions, never the book's task lists.
