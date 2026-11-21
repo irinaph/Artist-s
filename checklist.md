@@ -35,7 +35,7 @@ personal use + portfolio case study · a companion for the 12-week course · mob
 - [x] **First: test the key assumption** (result: not supported; the real need is seeing my own patterns) (why an app if the work is on paper?) against my own past attempts at the course: where did I stall, what did paper fail to do? → `research/my-past-attempts.md`
 - [x] Re-center the concept based on the interview → brief v2 (patterns, days 1–14 support; tasks parked)
 - [x] **Artist's Way-specific research** (done 2026-11-16): others stall too, mostly weeks 1–5, for the same permission/time/emotional reasons; a real segment wants patterns but today's methods are heavy or need typing; trackers are checkbox logs → `research/artists-way-practitioners.md` (own file: a different question from habit-tracker complaints). all 4 candidates accepted 2026-11-21 (logged in Decisions)
-- [x] **Competitor analysis** (done 2026-11-21; 4 decision candidates pending): verified against live App Store pages: every morning-pages app is typed-first; pattern insights come from AI reading the pages (OpenAI, 500+ words); one app now has artist dates, but none has the 12-week course or early-weeks support; our edge is "the app never reads the pages": *Morning Pages* app, *AM Pages*, 750 Words, the 2012 *Artist's Way Toolkit*, Notion/printable trackers, the paper workbook — core loop, paper vs typing, what's missing → `research/competitors.md`
+- [x] **Competitor analysis** (done 2026-11-21; all candidates accepted): verified against live App Store pages: every morning-pages app is typed-first; pattern insights come from AI reading the pages (OpenAI, 500+ words); one app now has artist dates, but none has the 12-week course or early-weeks support; our edge is "the app never reads the pages": *Morning Pages* app, *AM Pages*, 750 Words, the 2012 *Artist's Way Toolkit*, Notion/printable trackers, the paper workbook — core loop, paper vs typing, what's missing → `research/competitors.md`
 - [ ] **Persona** focused only on doing the course (not demographics): goals, frustrations, daily context, past attempts → `research/persona.md`
   - [ ] Primary: me (real data from my own mornings and past attempts at the course)
   - [ ] Optional: one more archetype for the portfolio story
@@ -49,8 +49,8 @@ personal use + portfolio case study · a companion for the 12-week course · mob
 - [ ] Map the core flows: **start the course** · **pages tap + 10 s capture** · **pattern view** · **artist date (plan/done + "what came out of it?" note)** · **weekly check-in** · **early support, weeks 1–4** · **light 12-week path** → `design/flows.md`
 - [ ] Pattern research with 3 parallel Mobbin researchers, one per moment:
   - [ ] onboarding / starting a program
-  - [ ] one-tap daily check-in
-  - [ ] mood / reflection tracking + pattern and insight views (accessible, not color-only)
+  - [ ] one-tap daily check-in + capture (mood check-ins, e.g. 5 Minute Journal)
+  - [ ] mood / reflection tracking + pattern and insight views (accessible, not color-only; the Morning Pages leader's Insights as a contrast example)
   → artifact "Habit App Patterns"
 - [ ] List every state per screen: before start, first day, missed a day, missed a week (pause/continue choice), check-in skipped, week complete, course complete
 

@@ -50,14 +50,17 @@ Over time: the pattern view shows my moods, themes, ideas and what came out of m
 Week 12: course complete moment
 ```
 
-## What makes it different (to confirm in competitor analysis)
+## What makes it different (confirmed in `research/competitors.md`, 2026-11-21)
+**Positioning: your pages stay yours. Nothing is read unless you choose.** In v1, patterns come only from my own short notes; any future reading of pages is opt-in (`ideas.md`).
+
 | Alternative | What it does | Gap we fill |
 |---|---|---|
-| Morning-pages apps (*Morning Pages*, *AM Pages*) | Type your pages, streaks | Paper-first; patterns come from **my own short summaries**, not my private pages; no streak resets |
-| The book + a notebook | Everything, but no overview | Patterns over time + the course frame in one place |
-| Mood trackers | Moods, generic | Tied to the creative practice: themes and ideas → creative direction |
-| Notion / printable trackers | Static checklists | One tap on a phone; patterns build up on their own |
-| Publisher's *Artist's Way Toolkit* app (2012) | Exercises, meditations | Apparently no longer maintained *(to verify)* |
+| Morning-pages apps (*Morning Pages – Daily Journal*, Dahl & Sjöö's *Morning pages*, *Pagi*, *AM Pages*, 750 Words) | Type your pages; word goals; streaks and badges; paid AI insights; one has artist dates | Paper-first; **no streaks to protect**; the 12-week frame and early-weeks support |
+| AI insights and scan-and-AI journals | Read the full page to infer mood, emotions, topics; need 500+ words; accuracy openly imperfect | **Nothing is read unless I choose**: I name my mood, themes and one idea myself, on any length of morning |
+| Mood trackers (*Daylio*) | Fast mood + activity logs, charts | Tied to the creative practice: themes, ideas and what my dates produce → creative direction |
+| Notion templates / printables | Static 12-week checklists | One tap on a phone; patterns build up; gentle missed-day handling |
+| Paper journal / notebook | The pages, no overview | Patterns over time + the course frame |
+| 2012 *My Artist's Way Toolkit* | Inspirations, notebook, artist dates | Status unconfirmed; the name is now a 2025 book |
 
 ## MVP scope (approved, re-centered 2026-11-15)
 **In v1**

@@ -107,7 +107,7 @@ None of the five App Store listings declares any accessibility features (one app
 
 ---
 
-## Candidates for decisions (for you to accept or change)
+## Candidates for decisions (all accepted 2026-11-21, logged in `project-plan.md`)
 1. **Sharpen the positioning to "your pages stay yours: nothing is read unless you choose".** *(Revised 2026-11-21: an opt-in AI scan is parked for later, so "never reads the pages" holds for v1 only.)* In v1, patterns come from my own short words; any future reading of pages is opt-in. Replace the brief's differentiator table with the version above (it also corrects the artist-date assumption).
 2. **~~No scan as a principle~~ → resolved 2026-11-21:** no scan in the MVP; an opt-in AI scan is parked in `ideas.md` with conditions (after week 8, pages I pick, on-device where possible).
 3. **Add Mobbin references for Phase 3:** mood check-ins (5 Minute Journal and similar) for the capture screen; the leader's Insights screen as a *contrast* example for the pattern view.
