@@ -38,7 +38,20 @@
 - **Positioning: "your pages stay yours: nothing is read unless you choose" (2026-11-21):** AI reading and scanning already exist, so paper + patterns alone isn't different; patterns from my own notes, with any future reading opt-in, is. Brief's differentiator table replaced.
 - **Mobbin references for Phase 3 (2026-11-21):** mood check-ins (e.g. 5 Minute Journal) for the capture screen; the market leader's Insights screen as a contrast example for the pattern view.
 - **Name stays Artist's Sketchbook (2026-11-21):** two apps are already called "Morning pages" (one subtitled "The Artist's Way"); ours avoids both. Trademark check before launch still stands.
-- **Not a mental-health tool (2026-11-15):** the pages can surface heavy feelings; the app responds with calm copy and an optional "one constructive next step," never therapy-like features.
+- **Not a mental-health tool (2026-11-15):** the pages can surface heavy feelings; the app responds with calm copy and an optional ~~"one constructive next step"~~ "what's clearer now?" (changed 2026-11-21), never therapy-like features.
+
+- **Persona design candidates decided (2026-11-21):** (`research/persona.md`)
+  - **Log late: today + yesterday:** I open the app whenever I remember; older days go through the comeback flow so logging never becomes catch-up homework.
+  - **The mood asks how the pages felt:** still clear a day later, and it records what the patterns are for, not my afternoon.
+  - **Remembering: paper cue + home-screen shortcut; reminders stay parked:** the notebook is my only constant, and routine cues beat reminders (a web app has no reliable push).
+  - **Theme and idea are two free-text fields, no medium tag:** themes = what the pages were about, ideas = creative ideas; a medium picker would cost a tap in a 10 s capture.
+  - **Heavy day → room first, then "what's clearer now?" (replaces "one constructive next step"):** my ideas flowed once I'd unloaded; "next step" read like a to-do.
+  - **On a heavy day the app never cheers me up; help resources appear only if I turn them on:** upbeat copy dismisses the feeling, and unasked resources would make it a mental-health tool.
+  - **Weekly patterns in the day-7 check-in; the "new pattern" card is parked:** with irregular writing and no real data yet, rules would fire on noise and feed the "patterns say nothing new" quit risk.
+  - **Bilingual notes with manual theme merge; Cyrillic-ready fonts:** "работа" and "work" would otherwise split the very patterns the app exists to show.
+  - **UI in English only for v1:** one set of copy keeps tone work manageable and suits the portfolio; Bulgarian UI parked.
+  - **Irregular writing is normal; comeback is a core flow:** I write when I need to, so a gap is the expected case, never a failure.
+  - **Success = real insight, not completion:** 6 weeks with real insight counts; 12 weeks is the stretch goal.
 
 ### Superseded by the reconcept (kept for the case study)
 - ~~MVP focus: building good habits~~ · ~~Start with 1–3 habits~~ · ~~Flexible frequency~~ · ~~Identity input: suggestions + free text~~ · ~~Name: Grains~~. These were Atomic Habits-specific. The old brief is in `archive/01-concept-brief-atomic-habits.md`.

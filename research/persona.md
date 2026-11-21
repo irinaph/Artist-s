@@ -1,5 +1,5 @@
 # Persona: The Returning Creative (primary: me)
-**Phase 2: Discovery · 2026-11-21 · draft v3** (v2 revised after an independent review; v3 adds my open answers)
+**Phase 2: Discovery · 2026-11-21 · v4** (v2 revised after an independent review; v3 adds my open answers; v4 records the design decisions)
 **Built from:** my self-interview and follow-up answers (`my-past-attempts.md`), practitioner accounts (`artists-way-practitioners.md`), habit-tracker complaints (`user-complaints.md`) and the competitor scan (`competitors.md`).
 **Focus:** only what matters for doing the course: goals, frustrations, daily context, past attempts. No demographics beyond what changes behavior.
 
@@ -90,8 +90,8 @@ Someone with a busy life and a persistent urge to create, who writes pages when 
 | **Days 1–10** | Both her attempts ended here: permission, time, anger | [me] | How does it feel this time, with a busier life but a lasting urge to create? |
 | **Weeks 2–5** | Where most practitioners stall: snowballing missed days, the artist date dropped first | [others] | — |
 | **Weeks 6–12** | Nothing | none | Everything: energy, boredom, what she'd want from the pattern view |
-| **A heavy day** | The pages surfaced anger. **Once she'd unloaded everything, ideas started to flow more freely.** She wants the app to help **crystallize those inspirations** | [me] | What should the app *not* do in that moment? (not answered yet) |
-| **Week 12** | Course complete moment (product decision) | brief | What would feel like a real ending to her? |
+| **A heavy day** | The pages surfaced anger. **Once she'd unloaded everything, ideas started to flow more freely.** She wants the app to help **crystallize those inspirations** | [me] | Not answered: what the moment should feel like beyond "don't cheer me up" |
+| **Week 12** | Course complete moment (product decision). Real insight matters more to her than finishing: 6 good weeks would count [me] | brief + [me] | What would feel like a real ending to her? |
 
 ## Why she might quit anyway (assumptions to test)
 Even if the app is well designed:
@@ -137,26 +137,28 @@ Even if the app is well designed:
 
 ---
 
-## What this means for design (candidates, not yet decided)
-1. **Log late without penalty (new scope, needs a decision).** "Pages done" works later in the day and for **yesterday**, with neutral wording ("Pages done", not "this morning"). **Sub-question:** does the capture ask for the mood *while writing* or the mood *now*? Hours later, they differ.
-2. **Remembering to open the app.** Explore a **cue on the paper side** in Phase 3, since the notebook is her only constant (e.g. a card in the cover that points to the app), plus a home-screen shortcut. Reminders stay parked (`ideas.md`): research shows cues tied to a routine beat reminders, and a web app has no reliable push (`user-complaints.md` F3).
-3. **Medium-neutral capture.** Keep the terms apart: a **theme** is what the pages were about ("work", "my sister"); an **idea** is a creative idea and may name a medium ("film the street at dusk"). Both free text, with her own past entries as suggestions; artist-date suggestions span media.
+## What this means for design (decided 2026-11-21, logged in `project-plan.md`)
+**Summary:** 1 today + yesterday, mood = how the pages felt · 2 paper cue + shortcut · 3 two free-text fields · 4 parked · 5 "what's clearer now?", never cheer up, resources only if she turns them on · 6 weekly only, alert card parked · 7 free text + manual merge, English UI · 8 adopted.
+
+1. ✅ **Log late without penalty: today + yesterday; mood asks how the pages felt.** "Pages done" works later in the day and for **yesterday**, with neutral wording ("Pages done", not "this morning"). **Sub-question:** does the capture ask for the mood *while writing* or the mood *now*? Hours later, they differ.
+2. ✅ **Remembering to open the app: paper cue + home-screen shortcut.** Explore a **cue on the paper side** in Phase 3, since the notebook is her only constant (e.g. a card in the cover that points to the app), plus a home-screen shortcut. Reminders stay parked (`ideas.md`): research shows cues tied to a routine beat reminders, and a web app has no reliable push (`user-complaints.md` F3).
+3. ✅ **Medium-neutral capture: two free-text fields, no medium tag.** Keep the terms apart: a **theme** is what the pages were about ("work", "my sister"); an **idea** is a creative idea and may name a medium ("film the street at dusk"). Both free text, with her own past entries as suggestions; artist-date suggestions span media.
 4. ~~Connect the patterns to the concrete goal~~ → **parked** until the goal is known: it adds a goal record and an onboarding step, and risks a report-card feel.
-5. **Heavy day → "what's clearer now?"** *(adjusts a decided item)* Today's decision is a calm "one constructive next step" prompt. Her answer suggests a better order: let her unload first, then invite **one idea or insight that came up after**. Same moment, softer and more creative. Fits "not a mental-health tool".
-6. **Pattern nudges (new scope).** Her ask: free access, plus nudges when a new pattern appears and weekly.
+5. ✅ **Heavy day → "what's clearer now?"** *(replaces "one constructive next step")*. Never cheer her up; help resources only if she turns them on. Today's decision is a calm "one constructive next step" prompt. Her answer suggests a better order: let her unload first, then invite **one idea or insight that came up after**. Same moment, softer and more creative. Fits "not a mental-health tool".
+6. ✅ **Pattern nudges: weekly in the day-7 check-in; "new pattern" card parked in `ideas.md`.** Her ask: free access, plus nudges when a new pattern appears and weekly.
    - **Weekly:** show the week's patterns inside the **day-7 check-in**, which already exists. Small.
    - **New pattern detected:** a card shown **inside the app when she opens it** (no push; reminders stay parked), using simple rules on her own notes (e.g. a theme 3+ times in a week, a mood shift), **no AI**. Moderate.
    - **Tension:** the brief says the pattern view is low-key with no pushed insights in weeks 1–2. Detection would start from week 3.
-7. **Bulgarian and English notes.** Free text in either language. Tag suggestions show her own past tags in both. "работа" and "work" would count as two themes unless she can **merge** them (small, manual). Phase 4: fonts must support Cyrillic. UI language is a separate question (English-only for v1 unless decided otherwise).
-8. **Irregular writing is normal, not a failure** *(reinforces decided items)*: she writes when she needs to. No streaks, weeks never lock, and the comeback moment matters more than ever.
+7. ✅ **Bulgarian and English notes, with manual merge; English-only UI.** Free text in either language. Tag suggestions show her own past tags in both. "работа" and "work" would count as two themes unless she can **merge** them (small, manual). Phase 4: fonts must support Cyrillic. UI language is a separate question (English-only for v1 unless decided otherwise).
+8. ✅ **Irregular writing is normal, not a failure** (adopted) *(reinforces decided items)*: she writes when she needs to. No streaks, weeks never lock, and the comeback moment matters more than ever.
 
 ## Optional second archetype (portfolio)
 Not written. The strongest candidate from research is **the time-starved parent**: same permission and time barriers, with stronger guilt about "non-productive" time (practitioners F2). Write it only if the case study needs a second perspective.
 
 ## Open questions (for me)
 *Answered 2026-11-21: current practice, permission now, heavy days, pattern view, language (see `my-past-attempts.md` addendum).*
-1. On a heavy day, what should the app *not* do?
-2. What's the concrete creative goal, and should the app know about it at all?
-3. What has reliably reminded me to keep a habit before?
-4. Would finishing 6 weeks with real insight count as success?
-5. UI language: English only for v1, or Bulgarian too?
+1. ~~On a heavy day, what should the app *not* do?~~ Never cheer me up; no help resources unless I turn them on. (2026-11-21)
+2. What's the concrete creative goal, and should the app know about it at all? *(open; candidate 4 parked)*
+3. What has reliably reminded me to keep a habit before? *(open; paper cue chosen meanwhile)*
+4. ~~Would finishing 6 weeks with real insight count as success?~~ Yes, insight over completion. (2026-11-21)
+5. ~~UI language?~~ English only for v1. (2026-11-21)

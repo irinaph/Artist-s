@@ -9,6 +9,15 @@ Things outside the MVP. Each has the user problem behind it and when to revisit.
   - **Revisit:** after a few weeks of real use. Am I actually wanting to share?
 
 ## Later
+- **"New pattern" card (rule-based, in-app)** — added 2026-11-21
+  - **What:** when I open the app, a card says something new showed up (e.g. a theme 3+ times in a week, a mood shift). No AI, no push, from week 3.
+  - **User problem:** I want to be nudged when a pattern appears, like Apple Health trend alerts.
+  - **Why parked:** I write irregularly and there's no real data yet; rules guessed now would fire on noise and feed the "patterns say nothing new" quit risk.
+  - **Revisit:** after the paper prototype or 3–4 weeks of real captures, to pick rules that actually mean something.
+- **Bulgarian UI** — added 2026-11-21
+  - **Why parked:** a second set of copy and tone work; v1 is English. Notes are already bilingual.
+- **Link patterns to my creative goal** — parked 2026-11-21 (persona candidate 4)
+  - **Why parked:** the goal isn't stated yet; adds a goal record + onboarding step and risks a report-card feel.
 - **AI handwriting scan for richer analysis** — added 2026-11-21
   - **What:** photograph handwritten pages; AI reads them to find moods, themes and thought paths in more depth than the 10-second note.
   - **User problem:** the note only gives the headlines; I'd like to follow trains of thought across pages.

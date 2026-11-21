@@ -31,7 +31,7 @@ You write by hand, as the book asks. Afterwards, the app takes about ten seconds
 | **Artist date**, weekly | Plan it (an optional idea) → mark it done. **A small date counts** (e.g. 30 minutes) |
 | **Seeing what the practice produces** (me) | When an artist date is done: an optional **"what came out of it?"** note (one sentence), shown in the pattern view next to my ideas |
 | Permission to create (me: "too old, too busy") | Gentle framing in our own words, strongest in weeks 1–4 and tapering off |
-| Hard days (me: anger, couldn't regroup) | When I log a heavy mood, a calm, optional prompt to note one constructive next step |
+| Hard days (me: anger, couldn't regroup) | When the pages felt heavy: room first (the heavy part is done; an early dip is normal), then an optional "what's clearer now?" for one idea that surfaced after unloading |
 | **12 weeks, each with a theme** | A **light path frame**: which week I'm in and its theme. Not the main screen |
 | **Weekly check-in** | Day 7: pages count and artist date prefilled (editable) + a short reflection. Invited, never required |
 | Self-compassion and gentleness | Calm tone; no streak to break; weeks never lock |
@@ -65,15 +65,17 @@ Week 12: course complete moment
 ## MVP scope (approved, re-centered 2026-11-15)
 **In v1**
 - Start the course: pick a start date (week 1 begins)
-- **Today:** one-tap "Pages done" (a shorter morning counts too) → optional 10 s capture (mood, 1–2 themes, one idea)
-- **Pattern view:** moods over time, recurring themes, collected ideas; low-key in weeks 1–2
+- **Today:** one-tap "Pages done" (a shorter morning counts too; works any time today or for yesterday) → optional 10 s capture (how the pages felt, 1–2 themes, one creative idea; free text in Bulgarian or English)
+- **Pattern view:** moods over time, recurring themes, collected ideas; low-key in weeks 1–2; manual merge of same-meaning themes (e.g. "работа" + "work")
 - **Artist date:** plan (an optional idea) / done; small dates count; optional "what came out of it?" note (text only, no photos in v1)
-- **Early support, weeks 1–4 (tapering):** permission framing; a calm "one constructive next step" prompt on heavy days, saying an early dip is normal
-- **Weekly check-in** on day 7: prefilled + a short reflection. Invited, never required; weeks never lock
+- **Early support, weeks 1–4 (tapering):** permission framing; on heavy days, room first, then an optional "what's clearer now?", saying an early dip is normal
+- **Weekly check-in** on day 7: prefilled + the week's patterns + a short reflection. Invited, never required; weeks never lock
 - **Light 12-week path:** current week and theme
-- **Comeback moment** after missed days; after a **missed week**, I choose **pause or continue**, with inspiration
+- **Comeback moment** after missed days (a core flow: irregular writing is normal, gaps are never shown as failure); after a **missed week**, I choose **pause or continue**, with inspiration
 - **Course complete** moment after week 12
 - Data saved between visits
+- **Remembering:** a paper cue in the notebook (card/bookmark pointing to the app) + home-screen shortcut
+- UI in English only
 
 **v1.1 (first after the MVP)**
 - **"Share your week" card:** a Strava-style milestone card. Opt-in, no private content. See `ideas.md`
@@ -84,6 +86,7 @@ Week 12: course complete moment
 - Opening the app to core users
 - **AI handwriting scan** for richer analysis: opt-in, after week 8 (conditions in `ideas.md`)
 - Photos for the artist-date note
+- "New pattern" card (rule-based, in-app) · Bulgarian UI · linking patterns to my creative goal
 - Reminders / notifications · typed pages · rereading prompts after the course · repeating the course
 
 ## Constraints
@@ -94,7 +97,7 @@ Week 12: course complete moment
 - **My data stays mine:** before sharing with testers, decide where data lives; testers get a separate demo copy.
 
 ## Success criteria (personal use + portfolio)
-- I get **past day 14** and **week 4**, then complete all **12 weeks**
+- **Real insight comes first:** 6 weeks with real insight counts as success for me; getting past **day 14** and **week 4**, then all **12 weeks**, are the stretch goals
 - After 2 weeks, the pattern view shows me **at least one pattern I didn't notice** on paper
 - The pages check-in takes **under 5 s**; the capture **about 10 s**; the weekly check-in **under 2 min**
 - **Accessibility:** AA contrast; status never shown by color alone; the pattern view has a text alternative and isn't color-only; animations respect reduced motion; touch targets at least 44 px
