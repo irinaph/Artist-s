@@ -1,95 +1,105 @@
 # Competitor Analysis: What Already Exists for Doing The Artist's Way
-**Phase 2: Discovery · desk research · 2026-11-21**
+**Phase 2: Discovery · desk research · 2026-11-21** (app details verified from the live App Store pages and morningpages.app FAQ the same day)
 **Questions** (from `checklist.md` and the brief's "What makes it different" table):
 1. What is each alternative's core loop?
 2. Paper or typing: where do the pages live?
 3. Does anything show patterns over time, and how?
 4. What's missing for someone doing the 12-week course?
 
-**Method:** web search only. App Store pages, vendor sites and 750 Words could not be opened from this session (network blocked), so app details come from search-result summaries of those pages. **Prices, ratings and features can be out of date or differ by country; verify in the store before quoting them in the case study.** No hands-on testing yet: that's the Mobbin walkthrough later in Phase 2.
+**Method:** web search, then reading the US App Store listings of the 5 morning-pages apps, the morningpages.app FAQ and the literati.tools product page. 750 Words blocks automated visits (403), so its details come from search summaries only. Templates, scan apps and Daylio also come from search summaries. No hands-on use yet: that's the Mobbin walkthrough later in Phase 2.
 
 ## How strong is the evidence?
 | Tier | What it is | Trust |
 |---|---|---|
-| **B. User reviews** | App Store reviews quoted in search summaries; Goodreads reviews | Medium: real voices, few of them, some dated |
-| **C. Vendor copy** | App Store listings, FAQs, template and printable listings | Good for "what exists", low for "does it work" |
+| **B. User reviews** | App Store reviews (few per app), Goodreads | Medium: real voices, small numbers, some dated |
+| **C. Vendor copy** | App Store listings, FAQs, product pages, template listings | High for "what exists", low for "does it work" |
 
-**Gaps:** no ratings counts or review volumes; no Android check; no hands-on use. **Treat this as a map of the field, not a teardown.**
+**Gaps:** most apps have under 10 ratings, so review evidence is thin; prices are US-only; no Android check; 750 Words, scan apps and Daylio not verified first-hand. **Treat this as a map of the field, not a teardown.**
 
 ---
 
 ## The field at a glance
-| Alternative | Where pages live | Core loop | Patterns? | Course frame (12 weeks, artist dates) | Missed day |
+| Alternative | Where pages live | Core loop | Patterns? | Course frame | Missed day |
 |---|---|---|---|---|---|
-| **Morning Pages** (Dahl & Sjöö), iOS/Mac/web | **Typed** in the app; **handwriting scan** added | Write 3 pages → word count → stats | **AI** reads entries (via OpenAI) → emotions, topics, mood by day/week/month (Premium) | None found | Streaks + badges |
-| **Morning Pages – Daily Journal** (Gorban) | Typed | Write → AI "emotional insights" | AI insights, mood tracking (subscription) | None | Reminders; streak behavior unclear |
-| **Morning Pages: Diary & Journal** | Typed | Text field + calendar + "word grids" for key words/goals | Light (calendar, key words) | None | Unclear |
-| **AM Pages** (Szymczyk), iOS, free | Typed | Fresh page daily, word counter to ~750 words | None | None | None found |
-| **Pagi**, iOS, one-time ~$12 | Typed | Write → word counter + progress bar; offline, no tracking | None | None | None found |
-| **750 Words**, web, ~$5/mo (dated figure) | Typed | Write 750 words → points, badges, animal icons | Per-entry stats incl. an inferred **emotion**, metadata links across entries | None | **Streaks**; a paid-style "protect your streak" patch for one missed day |
-| **Scan-a-paper-page journals** (Reflect, Journal Scanner, Journal Mate) | **Paper**, photographed | Photo → OCR → auto date + **mood tags** → ask AI about past entries | **AI reads the full page text** | None | — |
-| **Daylio** (mood tracker) | No writing needed | Two taps: mood + activities | Charts, mood–activity links (deeper stats paid) | None | Streaks |
-| **Notion templates & printables** ($0–$5, Gumroad/Etsy/Notion gallery) | Paper or typed | Tick boxes: pages, artist date, weekly check-in, tasks | None (static) | **Yes**: 12 weeks, artist dates, check-ins | Nothing happens |
-| **Hobby web apps** (2 open-source PWAs on GitHub) | **Paper notebook** + phone | Toggle artist date, note field; data only on the phone | None | Partly (weeks, artist date) | — |
-| **My Artist's Way Toolkit & App** (Tarcher/Penguin, 2012) | Web notebook (typed) | Daily inspirations, interactive notebook, record artist dates | None known | Yes (official) | — |
-| **The Morning Pages Journal** (paper, official) | **Paper** | Lined pages, instructions, quotes | None | Not structured by week | — |
+| **Morning Pages – Daily Journal** (Anastasiya Gorban; morningpages.app) · iOS/Mac/web · **4.7★, 479 ratings** · updated Nov 2026 · free; Pro $7.99/mo or $39.99/yr | **Typed**; handwriting scan (Pro) | Write → word goal → streak, badges, monthly challenges | Pro: **OpenAI reads every entry** → 10 emotions, mood (positive / negative / neutral, colored green / red / grey), topics; by day/week/month; needs 500+ words | None | **Streak with "repair days"**: 1 earned per 5 days written, auto-used on a miss (max 14) |
+| **Morning pages – The Artist's Way** (Dahl & Sjöö; literati.tools) · iOS/Mac · 4.2★, 5 ratings · updated Oct 2026 · free + Premium (monthly/yearly/lifetime) | **Typed**; handwriting recognition (Premium) | Write → word goal → streak; prompts appear when you pause | **AI topic tags** per entry (on-device Apple Intelligence; Premium cloud AI sends text to literati.tools); insight charts | **Artist Dates** (plan, AI suggestions, reminders, log past ones) + **Weekly Walks**. No 12 weeks, themes or check-in | Streaks; **Vanishing Pages** deletes text after 1/7/30 days but keeps streaks |
+| **AM Pages** (Mark Szymczyk) · iOS · free · 3.5★, 6 ratings · **last update 2021** | Typed | Fresh page daily, counts to ~750 words | None | None | None |
+| **Pagi** (Lucas Fischer) · iOS/Mac · free + IAP · 4.5★, 10 ratings · updated Jul 2025 | Typed | Focus mode, word counter, progress bar; offline, **no tracking** | None | None | None |
+| **Morning Pages: Diary & Journal** (Health & Wellness Apps Ltd) · iPhone · 2 ratings | Typed | Text field, calendar, "word grids" for goals | Light | None | — |
+| **750 Words** · web *(unverified: site blocks bots)* | Typed | Write 750 words → points, badges | Per-entry stats incl. an inferred emotion | None | Streaks + "protect your streak" |
+| **Scan-a-paper-page journals** (Reflect, Journal Scanner, Journal Mate) *(search summaries)* | **Paper**, photographed | Photo → OCR → auto date + mood tags → ask AI | **AI reads the full page** | None | — |
+| **Daylio** *(search summaries)* | No writing | Two taps: mood + activities | Charts, mood–activity links (deeper stats paid) | None | Streaks |
+| **Notion templates & printables** ($0–$5) | Paper or typed | Tick boxes: pages, artist date, check-in, tasks | None (static) | **Yes**: 12 weeks, artist dates, check-ins | Nothing happens |
+| **Hobby web apps** (2 open-source PWAs on GitHub) | **Paper notebook** + phone | Artist-date toggle, note field; data only on the phone | None | Partly | — |
+| **My Artist's Way Toolkit & App** (Tarcher/Penguin, 2012) | Web notebook | Daily inspirations, notebook, artist dates | None known | Yes (official) | — |
+| **The Morning Pages Journal** (paper, official) | **Paper** | Lined pages, instructions, quotes | None | Not by week | — |
 
 ---
 
 ## Findings
 
-### Finding 1: The morning-pages apps are typing apps
-Every dedicated morning-pages app found (Morning Pages, AM Pages, Pagi, Diary & Journal, 750 Words) has you **type** the pages. Their loop is write → word count → streak/stats. That goes against the book's longhand rule, and against my own practice (`my-past-attempts.md`). [C]
+### Finding 1: Every morning-pages app is a typing app, and the two serious ones are actively growing
+All five apps on the App Store have you **type** the pages. Two are dormant or minimal (AM Pages, last updated 2021; Diary & Journal, 2 ratings). Two are actively built, with updates in Oct–Nov 2026: **Morning Pages – Daily Journal** (the market leader, 479 ratings) and **Dahl & Sjöö's Morning pages**. Both have added handwriting scanning as a paid extra; typing stays the core loop. [C]
 
-> **What it means for us:** "paper-first" is still a real difference from the morning-pages category, as the brief assumed.
+One reviewer said they switched from paper to the app because they didn't always have their notebook with them. [B]
 
-### Finding 2: The closest competitors are scan-and-AI journals, and they read your private pages
-This wasn't in the brief. A newer group of apps **is** paper-first and **does** show patterns:
-- **Reflect** photographs a paper page, runs OCR, dates it and **tags mood automatically**, and lets you ask an AI about past entries. [C]
-- **Journal Scanner** does the same with AI pattern and emotion insights. [C]
-- The leading **Morning Pages** app added a **handwriting scan**, and its insights are produced by sending entries to **OpenAI**. [C]
+> **What it means for us:** "paper-first" is still a real difference. The tradeoff is real too: some people *want* to leave paper. We stay paper-first because the book asks for longhand and it's how I practice; this is a deliberate choice for our user, not a gap in the market.
 
-The catch: to find patterns, they **read the whole page**. One Morning Pages reviewer found the AI insights "not particularly useful or accurate". [B]
+### Finding 2: Pattern insights come from AI reading your private pages, and the accuracy is openly shaky
+- **Morning Pages – Daily Journal** sends every entry to **OpenAI** to detect emotions, mood and topics, and needs **500+ words** a day to work. Its own FAQ says insights "won't always be 100% accurate" and tells users who **feel judged** to switch them off. [C]
+- A user review: "Great idea, **disappointing statistics**" (2020), about the app labelling writing positive or negative. The developer replied in Oct 2026 that insights were rebuilt. [B]
+- **Dahl & Sjöö** auto-generates topic tags with on-device AI; its Premium cloud AI sends text to its own server. [C]
+- Scan apps (Reflect, Journal Scanner) do the same with photos of paper pages. [C, unverified]
 
-> **What it means for us:** "paper + patterns" alone is **not** our differentiator any more. What is different:
+> **What it means for us:** "paper + patterns" alone is **not** our differentiator. What is:
 > - **The app never sees the pages.** Patterns come from **my own 10-second summary** (mood, themes, one idea), not from machine-reading private writing.
-> - That matches the book's privacy ethic (pages aren't meant to be read, even by yourself, early on; `artists-way-practitioners.md` Finding 4) and lowers the "writing for the tag" risk compared with a full-page scan.
-> - My own words are likely **more accurate** than inferred mood, which is the one complaint we found about AI insights.
+> - It works on a **short morning** too: AI insights need 500+ words, our capture doesn't care how much I wrote.
+> - **I name my own mood,** so there's nothing to "feel judged" by. That fits our calm tone and avoids the leader's known weak spot.
+> - It matches the book's privacy ethic (pages aren't for rereading early on; `artists-way-practitioners.md` Finding 4).
 
-### Finding 3: Nobody combines the course frame with daily tracking
-- Apps have the **daily** loop and no course (no weeks, themes, artist dates, check-ins).
-- Notion templates and printables have the **course** (12 weeks, artist dates, check-ins) and no daily ease or patterns: they are checkbox logs, as found in `artists-way-practitioners.md`. [C]
-- The only official app (2012 Toolkit) had the course and artist dates, but I couldn't confirm it still exists. Its name now belongs to a **2025 book**, *The Artist's Way Toolkit*. [C]
+### Finding 3: Privacy is something people actively look for
+- Pagi's most recent review praises it as the only writing app found that **doesn't collect data**, "in these uncertain times with AI mining". [B]
+- Dahl & Sjöö's **Vanishing Pages** (text deleted after 1/7/30 days, streaks kept) is praised in its top review: "frees me up to really write freely". [B]
+- Its privacy label, by contrast, lists **user content and coarse location linked to identity**. [C]
 
-> **What it means for us:** the brief's gap holds. The **artist date** in particular is tracked only by printables, templates and two hobby web apps.
+> **What it means for us:** "your pages never enter the app" is a privacy promise that's simpler and stronger than vanishing text or opt-out AI. Worth making visible in onboarding copy (Phase 4).
 
-### Finding 4: Streaks are the default, and 750 Words monetizes the anxiety
-750 Words, Morning Pages and Daylio all use streaks. 750 Words offers a way to **"protect your streak"** after one missed day. Another Morning Pages reviewer complained that a change kept counting words toward the streak while the actual words vanished. [B/C]
+### Finding 4: One app now covers artist dates, but nobody covers the course itself
+- **Dahl & Sjöö's app has Artist Dates** (plan, AI suggestions, reminders, log past outings) and Weekly Walks. This corrects the brief's assumption that no app tracks artist dates. [C]
+- **No app** has the 12-week path, weekly themes, a weekly check-in, or support for the early weeks when people quit (`artists-way-practitioners.md`).
+- Notion templates and printables have the course structure but are static checkbox logs. [C]
+- The only official app (2012 Toolkit) had the course and artist dates; I couldn't confirm it still exists, and its name now belongs to a **2025 book**. [C]
 
-> **What it means for us:** confirms the "no streak resets" decision (`user-complaints.md`). Our missed-day and missed-week handling (comeback moment, pause or continue) has no counterpart in the field.
+> **What it means for us:** the artist date is now table stakes, not a differentiator. Our difference is the **course frame + early-weeks support + gentle missed-week handling**, around a paper practice.
 
-### Finding 5: Two hobby projects are close to our idea
-Two open-source phone web apps on GitHub pair a **paper notebook** with a phone tracker for artist dates and notes, storing data only on the device. [C]
+### Finding 5: Streak pressure is built in everywhere, even in the softened versions
+- The market leader **softens** streaks with "repair days" (earned by writing 5 days in a row, used automatically on a miss), but still centres the experience on streaks, 18+ streak and word-count badges, widgets showing the streak, and month-long writing challenges. [C]
+- Dahl & Sjöö keeps streak counts even when page text vanishes. 750 Words lets you "protect your streak". [C]
 
-> **What it means for us:** a signal that others feel the same need. Neither has a capture → pattern loop or early-weeks support. Worth a closer look in the walkthrough step for small UX ideas, not a threat.
+> **What it means for us:** confirms "no streak resets" (`user-complaints.md`). Repair days still treat a missed morning as damage to be repaired; our comeback moment and pause-or-continue choice don't count damage at all.
 
-### Finding 6: Low-friction mood logging is proven, and premium insights are what people pay for
-Daylio's two-tap, no-typing logging is praised as the extreme low-friction end of the market; its deeper stats are paid, and users complain about features behind the paywall. [B/C]
+### Finding 6: Low-friction mood logging is proven (Daylio)
+Daylio's two-tap, no-typing logging is praised as the low-friction end of the market; its deeper stats are paid. [B/C]
 
-> **What it means for us:** supports the "under 5 s tap, then optional ~10 s capture" approach. Daylio is a good **Mobbin reference** for the capture screen (Phase 3), but it's generic: it has no creative practice, themes or ideas.
+> **What it means for us:** supports the "under 5 s tap, then optional ~10 s capture" approach. In a quick Mobbin test, Daylio didn't come up by name, but similar mood check-ins did (e.g. 5 Minute Journal), so there are references for the capture screen in Phase 3.
 
 ### Finding 7: The paper journal is not enough even for its own users
-Reviewers of the official *Morning Pages Journal* say there aren't enough pages for the whole program (one edition has 252 pages, about 84 days of three pages). It has instructions and quotes, but no week structure. [B]
+Reviewers of the official *Morning Pages Journal* say there aren't enough pages for the whole program (one edition has 252 pages, about 84 days). It has instructions and quotes, but no week structure. [B]
 
-> **What it means for us:** the paper notebook is the right place for the pages, but it gives no overview. That's the same gap as in my own attempts.
+> **What it means for us:** paper is the right place for the pages, but it gives no overview, the same gap as in my own attempts.
+
+### Finding 8: Accessibility is weak across the field
+None of the five App Store listings declares any accessibility features (one app's changelog mentions adding VoiceOver support). The leader's mood chart uses **green / red / grey**; whether it relies on color alone isn't visible from the listing. [C]
+
+> **What it means for us:** our criteria (status never by color alone, a text alternative for the pattern view) are a small but real difference, and a good case-study point. Check hands-on during the Mobbin walkthrough.
 
 ---
 
 ## Updated "What makes it different"
 | Alternative | What it does | Gap we fill |
 |---|---|---|
-| Morning-pages apps (*Morning Pages*, *AM Pages*, *Pagi*, 750 Words) | Type your pages; word count; streaks; some AI insights | Paper-first; **no streak resets**; patterns from my own summary |
-| **Scan-and-AI journals** (*Reflect*, *Journal Scanner*, Morning Pages' scan) *(new)* | Photograph paper pages; AI reads them, tags mood, answers questions | **The app never reads the pages**: I capture mood, themes and one idea in my own words |
+| Morning-pages apps (*Morning Pages – Daily Journal*, Dahl & Sjöö's *Morning pages*, *Pagi*, *AM Pages*, 750 Words) | Type your pages; word goals; streaks and badges; paid AI insights; one has artist dates | Paper-first; **no streaks to protect**; the 12-week frame and early-weeks support |
+| AI insights (OpenAI / on-device) and scan-and-AI journals | Read the full page to infer mood, emotions, topics; need 500+ words; accuracy openly imperfect | **The app never reads the pages**: I name my mood, themes and one idea myself, on any length of morning |
 | Mood trackers (*Daylio*) | Fast mood + activity logs, charts | Tied to the creative practice: themes and ideas → creative direction |
 | Notion templates / printables | Static 12-week checklists | One tap on a phone; patterns build up; gentle missed-day handling |
 | Paper journal / notebook | The pages, no overview | Patterns over time + the course frame |
@@ -98,30 +108,30 @@ Reviewers of the official *Morning Pages Journal* say there aren't enough pages 
 ---
 
 ## Candidates for decisions (for you to accept or change)
-1. **Sharpen the positioning to "your pages stay private, even from the app".** The scan-and-AI apps take paper-first; our real difference is that patterns come from my own short words, never from reading the pages. Update the brief's differentiator table with the version above.
-2. **No scan, OCR or AI reading of pages in the MVP, and say so on purpose.** Not a missing feature but a principle (book privacy, writing-for-the-tag risk, accuracy). Log it as a decision so it's in the case study.
-3. **Add Daylio and the scan apps (Reflect, Morning Pages) to the Phase 3 Mobbin references,** for the capture screen and the pattern view, alongside the onboarding references.
-4. **Verify before the case study:** current prices, the 2012 Toolkit's status, and whether "Morning Pages" (an app name already in use) affects our naming check.
+1. **Sharpen the positioning to "your pages stay private, even from the app".** AI insights and scanning already exist; our real difference is that patterns come from my own short words, never from reading the pages. Replace the brief's differentiator table with the version above (it also corrects the artist-date assumption).
+2. **No scan, OCR or AI reading of pages in the MVP, as a stated principle.** Reasons: the book's privacy ethic, the writing-for-the-tag risk, and the leader's own admission that AI insights can be wrong and feel judging. Log it so it's in the case study.
+3. **Add Mobbin references for Phase 3:** mood check-ins (5 Minute Journal and similar) for the capture screen; the leader's Insights screen as a *contrast* example for the pattern view.
+4. **Naming check:** two apps are already called "Morning pages", one with "The Artist's Way" as its subtitle. Our working name, Artist's Sketchbook, avoids both; keep it on the pre-launch trademark check.
 
 ---
 
 ## Sources
-**Apps (C, B where reviews are quoted)**
-- Morning Pages (Dahl & Sjöö): [App Store](https://apps.apple.com/us/app/morning-pages/id6738604034) · [FAQ](https://morningpages.app/faq/) · [site](https://morningpages.app/) · [studio](https://www.dahlsjoo.com/) · [Crunchbase (conflicting company info)](https://www.crunchbase.com/organization/morningpages) · [AppsHunter reviews](https://appshunter.io/ios/app/1223874080)
-- [Morning Pages – Daily Journal (App Store)](https://apps.apple.com/us/app/morning-pages-daily-journal/id1223874080) · [TrendHunter on its AI insights](https://www.trendhunter.com/trends/aibased-journal)
-- [Morning Pages: Diary & Journal (App Store)](https://apps.apple.com/us/app/id6714479684)
-- [AM Pages (App Store)](https://apps.apple.com/us/app/am-pages/id1447417846)
-- [Pagi – Morning Pages & Diary (App Store)](https://apps.apple.com/us/app/id1586446074)
-- [Morning Pages for iOS & Mac (Literati)](https://www.literati.tools/morning-pages/en)
-- 750 Words: [site](https://www.750words.com) · [FAQ](https://750words.com/faq) · [Working on V2 (pricing post)](https://medium.com/750-words/working-on-750-words-v2-321a7284153c) · [No Film School](https://nofilmschool.com/2012/10/free-platform-750-words-challenges-you-to-write-three-pages-every-day)
+**App Store listings and product pages (C, B for quoted reviews)**, all read 2026-11-21
+- [Morning Pages – Daily Journal (Anastasiya Gorban)](https://apps.apple.com/us/app/morning-pages-daily-journal/id1223874080) · [morningpages.app FAQ](https://morningpages.app/faq/) · [morningpages.app](https://morningpages.app/)
+- [Morning pages – The Artist's Way (Dahl & Sjöö)](https://apps.apple.com/us/app/morning-pages/id6738604034) · [literati.tools product page](https://www.literati.tools/morning-pages/en) · [Dahl & Sjöö studio](https://www.dahlsjoo.com/)
+- [AM Pages](https://apps.apple.com/us/app/am-pages/id1447417846)
+- [Pagi – Morning Pages & Diary](https://apps.apple.com/us/app/id1586446074)
+- [Morning Pages: Diary & Journal](https://apps.apple.com/us/app/id6714479684)
+
+**Search summaries only (C)**
+- 750 Words: [site](https://www.750words.com) · [FAQ](https://750words.com/faq) · [Working on V2 (pricing post)](https://medium.com/750-words/working-on-750-words-v2-321a7284153c)
 - Scan-and-AI journals: [Reflect (AlternativeTo)](https://alternativeto.net/software/reflect-ai-journal-diary/about/) · [Journal Scanner (App Store)](https://apps.apple.com/us/app/-/id6695735974) · [Journal Mate (App Store)](https://apps.apple.com/app/journal-mate/id1533808328)
-- Daylio: [Headway review](https://makeheadway.com/blog/daylio-review/) · [Choosing Therapy review](https://www.choosingtherapy.com/daylio-app-review/) · [JustUseApp reviews (auto-generated summary)](https://justuseapp.com/en/app/1194023242/daylio-journal/reviews)
+- Daylio: [Headway review](https://makeheadway.com/blog/daylio-review/) · [Choosing Therapy review](https://www.choosingtherapy.com/daylio-app-review/)
 
 **Course trackers (C)**
 - [The Artist's Way Companion (Notion template gallery)](https://www.notion.com/templates/the-artist-s-way-companion)
 - [Hurley Winkler: 12-week printable tracker](https://hurleywinkler.gumroad.com/l/artists-way-tracker?layout=profile) · [Etsy printable toolkit](https://www.etsy.com/listing/4301253561/the-artists-way-toolkit-printable)
 - Hobby web apps: [artist-way-companion](https://github.com/abasarcadi-ops/artist-way-companion) · [artist-way-compation](https://github.com/abasarcadi-ops/artist-way-compation)
-- [Tu Camino del Artista: free 12-week online course](https://tucaminodelartista.com/en/the-artists-way.html)
 
 **Official products (C, B)**
 - 2012 app: [Adweek](https://www.adweek.com/performance-marketing/penguin-launches-artists-way-toolkit-app/) · [Shelf Awareness](https://www.shelf-awareness.com/theshelf/2012-02-02/app_of_the_day:_my_artist_s_way_toolkit_app.html) · [Publishers Lunch](https://lunch.publishersmarketplace.com/2012/01/enews-penguin-launches-mobile-platform-self-publishing-capabilities-from-nelson-literary-agency/) · [Big Girl Blue review (2012)](https://biggirlblue.com/2012/03/10/the-artist-way-toolkit-app-review/)
