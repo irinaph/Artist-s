@@ -1,11 +1,11 @@
 # User journey with mental model: attempt 3
-**Phase 2: Discovery · 2026-11-21 · draft v1 (for my review)**
+**Phase 2: Discovery · draft v2** (v1 2026-11-21; v2 2026-11-23 folds in the persona role-play of the five hardest moments)
 **Persona:** The Returning Creative (`research/persona.md` v4) · **App:** the MVP as decided on 2026-11-21 (`01-concept-brief.md`)
 
 ## How to read this
 - This is a **to-be journey**: my third attempt at the course, *with* the app as currently scoped. Each step is grounded in what happened on paper in attempts 1–2 (the as-is).
 - Per step: **what happens** · **what she expects** (mental model) · **what she thinks** · **what she feels** (−2 to +2) · **evidence** · **design implication**.
-- Evidence tags as in the persona: **[me]** high, **[others]** medium, **[assumption]** low. **Everything after day ~10 is [others] or [assumption]**, because I've never got further.
+- Evidence tags as in the persona: **[me]** high, **[others]** medium, **[assumption]** low. **[role-play]**: the agent playing the persona (2026-11-23). It is **not new evidence**: it tests whether the design holds up against the persona and makes reactions concrete. Treat it like [assumption] until I confirm it. **Everything after day ~10 is [others] or [assumption]**, because I've never got further.
 - ⚠ marks a moment where a quit risk from the persona applies (Q1–Q6).
 
 ## The curve at a glance
@@ -15,9 +15,9 @@
 | 1 | Day 1: first tap | +1 |
 | 2 | Days 2–6: irregular, late logs | 0 |
 | 3 | Heavy page | **−2** → −1 |
-| 4 | First check-in | +1 / −1 |
-| 5 | A gap | **−1** |
-| 6 | The comeback | 0 |
+| 4 | First check-in | +1 (cautious interest, if it leads with what surfaced) |
+| 5 | A gap | **−1** dread before opening |
+| 6 | The comeback | 0 relief (no worse than before opening) |
 | 7a | Thin patterns | 0 → **−1** |
 | 7b | A pattern lands | **+2** |
 | 8 | A missed week | **−2** → 0 |
@@ -70,7 +70,8 @@
 | **Thinks** | *"I don't want to be cheered up. I don't want a hotline. I just got it off my shoulders."* Then maybe: *"Actually… there was an idea at the end."* |
 | **Feels** | −2 → −1 if the moment is handled well |
 | **Evidence** | [me] attempt 2 ended here; ideas flowed once she'd unloaded; never cheer her up; resources only if she turns them on |
-| **Design implication** | This is the moment attempt 2 failed. **Naming the mood is the hard part, not the tap** (Q2): the heavy option must not need a word for the feeling. No upbeat copy, no patterns shown right then. The idea she adds is tagged as "after a heavy page" so the pattern view can show what heavy days produce. |
+| **Role-play** | Would skip the whole capture if she had to pick the precise word ("angry"). Accepts the room-first line *if it's one line*. "What's clearer now?" works only as an option; "if I *had* to come up with something, I'd resent it." A pattern shown right then ("you've felt this way twice this week") → "I'd close the app." Leaves raw but not chased away; unsure about tomorrow. [role-play] |
+| **Design implication** | This is the moment attempt 2 failed. **Naming the mood is the hard part, not the tap** (Q2): the heavy option must not need a word for the feeling (a wordless "heavy" choice). Room-first copy is **one line, max**. No upbeat copy, no patterns shown right then. The idea she adds is tagged as "after a heavy page" so the pattern view can show what heavy days produce. |
 
 ### 4. Day 7: the first check-in (invited)
 | | |
@@ -80,7 +81,8 @@
 | **Thinks** | *"Three pages days and no date. But I see 'my sister' twice… huh."* |
 | **Feels** | +1 if it shows something back; −1 if it reads like a report card |
 | **Evidence** | Brief (check-in decisions); [me] weekly nudge following the book; [assumption] her reaction |
-| **Design implication** | Show **what she noticed**, not how much she did. Counts stay small and neutral. With so few entries, the patterns are a "so far" list, not charts. |
+| **Role-play** | Braces for a report card ("three out of seven"). What turns it around: seeing a theme twice and connecting it to an idea from the heavy morning, "that's actually what I wanted". An empty artist date "stings a bit": fine if stated neutrally and followed by something small she could do at home in half an hour; an exhibition-sized suggestion doesn't fit her life now. Reflection: one line or she skips it. [role-play] |
+| **Design implication** | **Lead with what surfaced** (recurring themes, ideas, links between them); counts come after, small and neutral. A missing artist date is one neutral line plus one small, at-home suggestion for next week. The reflection is a single line. Show **what she noticed**, not how much she did. Counts stay small and neutral. With so few entries, the patterns are a "so far" list, not charts. |
 
 ## Stage C: Where attempts ended (days 8–14)
 
@@ -92,7 +94,8 @@
 | **Thinks** | *"This is where I always stop. Do I even open it?"* |
 | **Feels** | −1 avoidance |
 | **Evidence** | [me] attempt 1 ended around day 10; [others] snowballing missed days, weeks 2–5; persona Q1 "the gap feels too big" |
-| **Design implication** | The gap must be survivable **before she opens the app** (the paper card's wording matters) and after (step 6). |
+| **Role-play** | The dread starts at the notebook card, before the app: "my stomach drops a little." She opens it only if she's decided ahead of time it won't shout at her. Even a *kind* "you missed 3 days" → "I wouldn't open it the next time." [role-play] |
+| **Design implication** | The gap must be survivable **before she opens the app**: the card's wording carries the no-penalty promise (e.g. it talks about *when* you write, never daily). After opening: step 6. **No gap count anywhere, however gentle.** |
 
 ### 6. The comeback
 | | |
@@ -102,7 +105,8 @@
 | **Thinks** | *"Oh. It's just… today. Fine."* |
 | **Feels** | 0 relief |
 | **Evidence** | Decided (no streaks, comeback core flow, irregular writing is normal); [others] lowering the bar got people through |
-| **Design implication** | The comeback is a **core flow**: design it as carefully as day 1. Nothing asks her to explain or backfill the gap. |
+| **Role-play** | Hadn't written that day either, so there was nothing to tap; she just closes it, "but I don't feel worse than before I opened it. That's already more than paper gave me." Doesn't want to explain the gap or fill it in; wants to "write tomorrow as if it's normal". [role-play] |
+| **Design implication** | The comeback is a **core flow**: design it as carefully as day 1. Nothing asks her to explain or backfill the gap. **New state:** opening the app on a day with no pages and nothing to log. It needs a calm, complete-feeling screen (not an empty to-do), so that just opening and closing counts as a good outcome. |
 
 ## Stage D: Weeks 2–5, where most practitioners stall
 *Mostly [others] and [assumption].*
@@ -115,7 +119,8 @@
 | **Thinks** | *"I know I'm tired. Why am I doing this?"* Or, worse, she starts writing pages that will produce a nicer theme. |
 | **Feels** | 0 → −1 flat, slightly cheated |
 | **Evidence** | [assumption] persona Q3 and Q4; [others] practitioners F4 (writing for the tag) |
-| **Design implication** | **The biggest product risk.** The pattern view needs a useful state for sparse, irregular data: connect across fields (ideas next to the moods they came from, what artist dates produced), merge "работа" + "work" so counts aren't split. Never imply the pages should change to make better patterns. The paper prototype is the cheapest way to test this before building. |
+| **Role-play** | *"I haven't got that far"*: a fear, not an experience. "Work" and "tired" → "I don't need an app to tell me that." Repeats the writing-for-the-tag fear unprompted. What would keep her: **her ideas**, the same idea recurring across weeks, ideas clustering on heavy days. "That's something I can't see on paper." [role-play] |
+| **Design implication** | **The biggest product risk.** The role-play points to **ideas as the hook**: the pattern view may need to lead with recurring ideas and where they came from, with moods and themes as context, not the headline. The pattern view needs a useful state for sparse, irregular data: connect across fields (ideas next to the moods they came from, what artist dates produced), merge "работа" + "work" so counts aren't split. Never imply the pages should change to make better patterns. The paper prototype is the cheapest way to test this before building. |
 
 ### 7b. A pattern lands
 | | |
@@ -137,7 +142,8 @@
 | **Thinks** | *"Do I start over? I don't want to start over a third time."* |
 | **Feels** | −2 → 0 depending on the choice screen |
 | **Evidence** | Decided (pause/continue); [others] missed days snowball; feelings are [assumption] |
-| **Design implication** | Neither option is framed as the "right" one. No "restart from week 1" as the default. |
+| **Role-play** | *"I haven't got that far"*: a week off has happened, coming back after it never has. The real fear is **"start over?"**: "I've started over twice. I don't want a third start from week 1." Leans toward continue, because **"pause" sounds like the course is waiting for me to be ready, and I'm never ready."** Wants one sentence of inspiration, not a long text. [role-play] |
+| **Design implication** | Neither option is framed as the "right" one. **No "restart from week 1" option at all**, not just not the default. **Rename "pause"** so it doesn't read as "wait until you're ready" (e.g. "pick up where I left off" vs "join the current week"; copy in Phase 4). Inspiration is one sentence. |
 
 ### 9. Weeks 6–11: the middle
 | | |
@@ -166,13 +172,32 @@
 2. **Her starting mental model is "tracker = judge".** Every screen that could count, score or show a gap has to prove otherwise, starting with onboarding and the paper card.
 3. **The pattern view for sparse data is the riskiest unknown.** It's the main reason the product exists, and we have zero real data for it. → the **paper prototype** is the cheapest test.
 4. **Weeks 6–12 can't be designed from evidence.** We design for the early weeks and learn the rest during real use.
+5. **From the role-play (2026-11-23):** the same rule held at every low point. She stays if **nothing counts the gap, names the feeling for her, or asks her for something**. And **ideas, not moods, are what she came for**: they turned the check-in around and they're what would rescue thin patterns.
+
+## Role-play findings (2026-11-23)
+*[role-play]: the agent played the persona through steps 3, 4, 5–6, 7a and 8. These findings test the design; they don't count as new evidence about me.*
+| # | Finding | Changes |
+|---|---|---|
+| R1 | A precise mood word is a reason to skip the whole capture on a heavy day | Wordless "heavy" option (step 3) |
+| R2 | Any copy in hard moments: one line, one sentence | Copy rule for Phase 4 (steps 3, 4, 8) |
+| R3 | The check-in wins when it leads with what surfaced, loses when it leads with counts | Check-in order (step 4) |
+| R4 | Even a kind gap count would stop her coming back; the dread starts at the paper card | No gap count anywhere; card wording (step 5) |
+| R5 | Opening the app with nothing to log must feel complete, not empty | New state: "nothing to log today" (step 6) |
+| R6 | Recurring ideas are the hook; moods and themes alone feel like things she already knows | Pattern view may lead with ideas (step 7a) |
+| R7 | "Pause" reads as "wait until you're ready"; "start over" is the real fear | Rename pause; no restart option (step 8) |
+
+**Role-play honesty check:** two details the agent added aren't in the persona: writing "in the kitchen before everyone woke up" and "work, the kids, everything". They're invented, not evidence. Correct them or confirm them.
 
 ## Candidates for my decision (from the journey)
 1. **"Look back" when ending early**: if success means insight, not completion, should stopping before week 12 also get a closing look back? *(small new scope)*
 2. **Idea → artist date:** turn a recurring idea into the next artist date with one tap? *(small new scope; serves goal 2)*
-3. **Run the paper prototype now** (1–2 weeks, mood · 1–2 themes · one idea in the notebook margin) before the fresh-eyes review, to get real data for step 7a.
+3. **Pattern view leads with ideas** (R6): recurring ideas first, moods and themes as context. *(a design direction, not new scope; decide before Phase 3 flows)*
+4. **No "restart from week 1" option at all** (R7). *(a tightening of the decided pause/continue)*
+5. **Run the paper prototype now** (1–2 weeks, mood · 1–2 themes · one idea in the notebook margin) before the fresh-eyes review, to get real data for step 7a.
 
 ## Open questions
+- Role-play: are the kitchen and "the kids" true for me, or should they be removed from the persona's voice?
+- R6: when I picture my own patterns, is it really the ideas I'd look at first?
 - Step 3: is a heavy option without words enough, or does she still want to name it?
 - Step 4: does a patchy first week shown back feel like noticing or like a report card? (test in role-play)
 - Step 10: what would feel like a real ending?
