@@ -66,12 +66,12 @@ Week 12: course complete moment
 **In v1**
 - Start the course: pick a start date (week 1 begins)
 - **Today:** one-tap "Pages done" (a shorter morning counts too; works any time today or for yesterday) → optional 10 s capture (how the pages felt, 1–2 themes, one creative idea; free text in Bulgarian or English)
-- **Pattern view:** moods over time, recurring themes, collected ideas; low-key in weeks 1–2; manual merge of same-meaning themes (e.g. "работа" + "work")
-- **Artist date:** plan (an optional idea) / done; small dates count; optional "what came out of it?" note (text only, no photos in v1)
+- **Pattern view:** leads with **recurring ideas**, with moods and themes as their context; low-key in weeks 1–2; a **"so far" recap** (progress, moods, ideas) open any time, not only at the end; manual merge of same-meaning themes (e.g. "работа" + "work")
+- **Artist date:** plan (an optional idea, or **one of my captured ideas in one tap**) / done; small dates count; optional "what came out of it?" note (text only, no photos in v1)
 - **Early support, weeks 1–4 (tapering):** permission framing; on heavy days, room first, then an optional "what's clearer now?", saying an early dip is normal
 - **Weekly check-in** on day 7: prefilled + the week's patterns + a short reflection. Invited, never required; weeks never lock
 - **Light 12-week path:** current week and theme
-- **Comeback moment** after missed days (a core flow: irregular writing is normal, gaps are never shown as failure); after a **missed week**, I choose **pause or continue**, with inspiration
+- **Comeback moment** after missed days (a core flow: irregular writing is normal, gaps are never shown as failure); after a **missed week**, I choose **pick up where I left off or join the current week** (one sentence of inspiration); starting again from week 1 is possible but secondary
 - **Course complete** moment after week 12
 - Data saved between visits
 - **Remembering:** a paper cue in the notebook (card/bookmark pointing to the app) + home-screen shortcut

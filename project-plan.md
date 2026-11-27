@@ -53,6 +53,13 @@
   - **Irregular writing is normal; comeback is a core flow:** I write when I need to, so a gap is the expected case, never a failure.
   - **Success = real insight, not completion:** 6 weeks with real insight counts; 12 weeks is the stretch goal.
 
+- **Journey candidates decided (2026-11-27):** (`research/journey.md`, after the persona role-play)
+  - **An always-available "so far" recap of progress, moods and ideas:** insight counts as success whenever I stop, and moods are the context for my ideas; built as a mode of the pattern view, not a separate screen. 
+  - **One tap turns a captured idea into the next artist date plan:** closes the loop from idea to action (goal 2), using text I already wrote.
+  - **The pattern view leads with recurring ideas; moods and themes are context:** in the role-play, ideas were what made the check-in worth it and what would save thin patterns.
+  - **"Start again from week 1" stays, as a secondary option:** some may want it, but starting over is the fear, so the primary choices are pick up / join the current week, and "pause" gets renamed.
+  - **Role-play details confirmed:** I write in the kitchen before everyone wakes; I have kids. Added to the persona as [me].
+
 ### Superseded by the reconcept (kept for the case study)
 - ~~MVP focus: building good habits~~ · ~~Start with 1–3 habits~~ · ~~Flexible frequency~~ · ~~Identity input: suggestions + free text~~ · ~~Name: Grains~~. These were Atomic Habits-specific. The old brief is in `archive/01-concept-brief-atomic-habits.md`.
 

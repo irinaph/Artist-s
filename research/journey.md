@@ -143,7 +143,7 @@
 | **Feels** | −2 → 0 depending on the choice screen |
 | **Evidence** | Decided (pause/continue); [others] missed days snowball; feelings are [assumption] |
 | **Role-play** | *"I haven't got that far"*: a week off has happened, coming back after it never has. The real fear is **"start over?"**: "I've started over twice. I don't want a third start from week 1." Leans toward continue, because **"pause" sounds like the course is waiting for me to be ready, and I'm never ready."** Wants one sentence of inspiration, not a long text. [role-play] |
-| **Design implication** | Neither option is framed as the "right" one. **No "restart from week 1" option at all**, not just not the default. **Rename "pause"** so it doesn't read as "wait until you're ready" (e.g. "pick up where I left off" vs "join the current week"; copy in Phase 4). Inspiration is one sentence. |
+| **Design implication** | Neither option is framed as the "right" one. **"Start again from week 1" is available but secondary** (decided 2026-11-27), never the default or a primary button. **Rename "pause"** so it doesn't read as "wait until you're ready" (e.g. "pick up where I left off" vs "join the current week"; copy in Phase 4). Inspiration is one sentence. |
 
 ### 9. Weeks 6–11: the middle
 | | |
@@ -184,20 +184,18 @@
 | R4 | Even a kind gap count would stop her coming back; the dread starts at the paper card | No gap count anywhere; card wording (step 5) |
 | R5 | Opening the app with nothing to log must feel complete, not empty | New state: "nothing to log today" (step 6) |
 | R6 | Recurring ideas are the hook; moods and themes alone feel like things she already knows | Pattern view may lead with ideas (step 7a) |
-| R7 | "Pause" reads as "wait until you're ready"; "start over" is the real fear | Rename pause; no restart option (step 8) |
+| R7 | "Pause" reads as "wait until you're ready"; "start over" is the real fear | Rename pause; restart only as a secondary option (step 8) |
 
-**Role-play honesty check:** two details the agent added aren't in the persona: writing "in the kitchen before everyone woke up" and "work, the kids, everything". They're invented, not evidence. Correct them or confirm them.
+**Role-play honesty check:** two details the agent added weren't in the persona (writing "in the kitchen before everyone woke up"; "work, the kids, everything"). **Both confirmed as true on 2026-11-27** and added to the persona as [me].
 
-## Candidates for my decision (from the journey)
-1. **"Look back" when ending early**: if success means insight, not completion, should stopping before week 12 also get a closing look back? *(small new scope)*
-2. **Idea → artist date:** turn a recurring idea into the next artist date with one tap? *(small new scope; serves goal 2)*
-3. **Pattern view leads with ideas** (R6): recurring ideas first, moods and themes as context. *(a design direction, not new scope; decide before Phase 3 flows)*
-4. **No "restart from week 1" option at all** (R7). *(a tightening of the decided pause/continue)*
-5. **Run the paper prototype now** (1–2 weeks, mood · 1–2 themes · one idea in the notebook margin) before the fresh-eyes review, to get real data for step 7a.
+## Candidates from the journey (decided 2026-11-27, except the paper prototype)
+1. ✅ **Changed into an always-available look back:** a recap of progress, moods and ideas so far, open any time, not only at the end. Moods stay in because they are context for the ideas and show her what helped. ~~"Look back" when ending early~~: if success means insight, not completion, should stopping before week 12 also get a closing look back? *(small new scope)*
+2. ✅ **Idea → artist date** (accepted): turn a recurring idea into the next artist date with one tap? *(small new scope; serves goal 2)*
+3. ✅ **Pattern view leads with ideas** (R6, accepted): recurring ideas first, moods and themes as context. *(a design direction, not new scope; decide before Phase 3 flows)*
+4. ✅ **"Start again from week 1" stays, but secondary** (R7, changed): pick up where I left off / join the current week are the primary choices; restart is available, never pushed.
+5. ⏳ **Run the paper prototype now** (1–2 weeks, mood · 1–2 themes · one idea in the notebook margin) before the fresh-eyes review, to get real data for step 7a.
 
 ## Open questions
-- Role-play: are the kitchen and "the kids" true for me, or should they be removed from the persona's voice?
-- R6: when I picture my own patterns, is it really the ideas I'd look at first?
 - Step 3: is a heavy option without words enough, or does she still want to name it?
 - Step 4: does a patchy first week shown back feel like noticing or like a report card? (test in role-play)
 - Step 10: what would feel like a real ending?

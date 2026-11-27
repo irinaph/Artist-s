@@ -55,7 +55,8 @@ Someone with a busy life and a persistent urge to create, who writes pages when 
 | **AI insights that feel wrong or judging** | competitors F2 (the leader's own FAQ) |
 
 ## Daily context
-- **Mornings vary a lot:** no fixed time or place for the pages. [me]
+- **Mornings vary a lot:** no fixed time or place for the pages. When she does write in the morning, it is often **in the kitchen before everyone wakes up**. [me, confirmed 2026-11-27]
+- **She has kids;** work and family fill the day ("work, the kids, everything"), which is what pushes pages and artist dates out. [me, confirmed 2026-11-27]
 - **She writes when she needs to,** not on a schedule. [me]
 - **She opens the app whenever she remembers,** not at a set moment. [me] So a log may come hours later, or the next day.
 - **Her one constant is the paper notebook** [assumption from the two answers above]: it's the only thing present every time she writes.
@@ -153,7 +154,7 @@ Even if the app is well designed:
 8. ✅ **Irregular writing is normal, not a failure** (adopted) *(reinforces decided items)*: she writes when she needs to. No streaks, weeks never lock, and the comeback moment matters more than ever.
 
 ## Optional second archetype (portfolio)
-Not written. The strongest candidate from research is **the time-starved parent**: same permission and time barriers, with stronger guilt about "non-productive" time (practitioners F2). Write it only if the case study needs a second perspective.
+Not written. *Note 2026-11-27: she has kids herself, so the primary persona already covers much of this archetype.* The strongest candidate from research is **the time-starved parent**: same permission and time barriers, with stronger guilt about "non-productive" time (practitioners F2). Write it only if the case study needs a second perspective.
 
 ## Open questions (for me)
 *Answered 2026-11-21: current practice, permission now, heavy days, pattern view, language (see `my-past-attempts.md` addendum).*
