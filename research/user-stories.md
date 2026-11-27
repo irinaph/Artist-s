@@ -11,7 +11,7 @@
 ## Cross-cutting criteria (apply to every story)
 - **X1 Accessibility:** AA contrast; status never shown by color alone; touch targets ≥ 44 px; works with a screen reader; respects reduced motion; Cyrillic-ready fonts.
 - **X2 No judgment:** no streaks, no gap counts, no percentages or targets, no red "missed" states, anywhere (R4, decision "irregular writing is normal").
-- **X3 Privacy:** data stays in my saved data; nothing is sent elsewhere; no account.
+- **X3 Privacy:** data stays in my saved data; no account. The only thing ever sent to AI is my idea text, and only if I've turned on idea links (S1b); the pages, moods, themes and notes are never sent.
 - **X4 Language:** UI in English; my notes accept Bulgarian and English.
 - **X5 Mobile-first:** everything works one-handed at phone width.
 

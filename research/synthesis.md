@@ -78,6 +78,11 @@ Five independent subagents got the same task and the same 8 headings, but each h
 When she saves an idea, the app offers "same as an earlier idea?" with her recent ideas. One tap links them, and the count comes from the links. Past *themes* are still suggested as text; past *ideas* are not autocompleted. A merge for ideas in the pattern view (extending US-14) is the fallback.
 *Trade-off:* one optional extra tap in the capture, and the hardest new widget. Without it, the headline of the pattern view is a list of one-offs.
 
+**S1b. AI suggests idea links, I confirm** · ✅ *accepted 2026-11-27*
+An opt-in layer on top of S1. In the pattern view or the check-in (never during the capture), AI looks only at my idea text and proposes "these look like the same idea, link them?". One tap confirms or rejects; nothing is counted until I confirm. It never summarises, interprets, reads moods, themes or notes, or touches the pages. If the AI call fails or is off, manual linking (S1) still works.
+*Why:* it solves A1 across two languages, which no rule can, and it moves S1's extra work out of the 10 s capture. *Trade-off:* idea text now goes to AI (X3 rewritten); wrong suggestions are contained by confirmation. *To check in the Phase 5 spike:* that the artifact can call Claude from the page.
+*Positioning updated with it:* the market leader's AI reads your pages; ours shapes your own ideas.
+
 **S2. "Add an idea" any time, without pages** (A7) · *Recommend: accept, Must*
 A quiet second entry on Today. Each idea records where it came from (after pages / after a date / on its own). "Pages done" stays the main button and the 5 s target stays.
 *Trade-off:* Today gets a second action. It also removes the heavy-day bias from the ideas data.

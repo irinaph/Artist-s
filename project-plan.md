@@ -35,7 +35,7 @@
 - **Artist-date "what came out of it?" note in the MVP (2026-11-21):** marking an artist date done offers an optional one-sentence note that feeds the pattern view, so I see my ideas next to what I acted on; it directly serves "direction for creative plans". No photos in v1 (storage, extra build).
 - **The 10-second note is how v1 builds patterns (2026-11-21):** works on a short morning, nothing to feel judged by, and the app never sees the pages in v1.
 - **AI handwriting scan parked for later (2026-11-21):** I want richer analysis long term; parked because it's a big build, it overlaps the market leader, and reading the pages needs care with the book's no-rereading period. Conditions in `ideas.md`.
-- **Positioning: "your pages stay yours: nothing is read unless you choose" (2026-11-21):** AI reading and scanning already exist, so paper + patterns alone isn't different; patterns from my own notes, with any future reading opt-in, is. Brief's differentiator table replaced.
+- **Positioning: "your pages stay yours: nothing is read unless you choose" (2026-11-21, superseded 2026-11-27, see below):** AI reading and scanning already exist, so paper + patterns alone isn't different; patterns from my own notes, with any future reading opt-in, is. Brief's differentiator table replaced.
 - **Mobbin references for Phase 3 (2026-11-21):** mood check-ins (e.g. 5 Minute Journal) for the capture screen; the market leader's Insights screen as a contrast example for the pattern view.
 - **Name stays Artist's Sketchbook (2026-11-21):** two apps are already called "Morning pages" (one subtitled "The Artist's Way"); ours avoids both. Trademark check before launch still stands.
 - **Not a mental-health tool (2026-11-15):** the pages can surface heavy feelings; the app responds with calm copy and an optional ~~"one constructive next step"~~ "what's clearer now?" (changed 2026-11-21), never therapy-like features.
@@ -70,6 +70,8 @@
   - **C4 Runna's two equal cards are the layout reference for the missed-week choice:** the only comeback screen that offered calm, equal options; our copy drops "missed".
 - **No second archetype (2026-11-27):** the MVP is for me only, and an invented second persona would add portfolio decoration with no real data behind it; the case study stays honest with one real user.
 - **Journey v2 signed off (2026-11-27):** `research/journey.md` v2 is final for Discovery; its candidates were already decided and step 10 (ending) answered, so it is ready to feed Phase 3 flows.
+- **Positioning updated: "AI shapes your own ideas" (2026-11-27):** the market leader's selling point is "AI reads your pages"; ours is that AI works only on the ideas I write myself and never on the pages. Replaces "nothing is read unless you choose" (2026-11-21) now that S1b sends idea text to AI.
+- **S1b: AI-suggested idea links, opt-in (2026-11-27):** the fresh-eyes review found no way to detect recurring free-text ideas across two languages (5/5); AI matches "dusk video" with "видео на залез" where rules can't. Limits: it only proposes pairs, nothing counts until I confirm, no summaries or interpretation, never during the 10 s capture, and manual linking (S1) stays as the fallback. X3 rewritten to match.
 
 ### Superseded by the reconcept (kept for the case study)
 - ~~MVP focus: building good habits~~ · ~~Start with 1–3 habits~~ · ~~Flexible frequency~~ · ~~Identity input: suggestions + free text~~ · ~~Name: Grains~~. These were Atomic Habits-specific. The old brief is in `archive/01-concept-brief-atomic-habits.md`.
