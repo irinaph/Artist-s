@@ -1,51 +1,41 @@
-# Handoff: Phase 2 (Discovery), persona → user journey
-*Written 2026-11-21 at the end of the competitor + persona session. Replaces the Phase 1 → 2 handoff.*
+# Handoff: Phase 2 (Discovery), user stories → fresh-eyes review
+*Written 2026-11-27 at the end of the persona-decisions + journey + user-stories session. Replaces the 2026-11-21 handoff.*
 
 ## Where we are
-- **Phase 0 (Setup)** and **Phase 1 (Concept)** are done; brief v2 is approved.
-- **Phase 2 (Discovery)** so far:
-  - ✅ Habit-tracker complaints → `research/user-complaints.md`
-  - ✅ Self-interview (key assumption test) → `research/my-past-attempts.md` (+ addendum with 2026-11-21 answers)
-  - ✅ Artist's Way practitioner research → `research/artists-way-practitioners.md`
-  - ✅ **Competitor analysis** → `research/competitors.md` (verified against live App Store pages; all candidates accepted)
-  - 🟡 **Persona** → `research/persona.md` draft v3 (reviewed independently, then updated with my answers). **8 design candidates in it need decisions**, see below.
-- The project now lives in the GitHub repo `irinaph/Artist-s`, branch `claude/intelligent-faraday-scp7sh`, with the folder structure the docs refer to.
+- **Phase 0 (Setup)** and **Phase 1 (Concept)** are done; brief v2 approved (and updated with every decision below).
+- **Phase 2 (Discovery):**
+  - ✅ Habit-tracker complaints, self-interview, practitioner research, competitor analysis
+  - ✅ **Persona** → `research/persona.md` v4: all design candidates decided; two facts confirmed (writes in the kitchen before everyone wakes; has kids)
+  - 🟡 **User journey** → `research/journey.md` v2: 11 steps, persona role-play of the five hardest moments folded in (findings R1–R7), journey candidates decided
+  - 🟡 **User stories** → `research/user-stories.md` v1: 25 stories in 7 epics with acceptance criteria; **4 open questions** at the end
+- **Git:** work lives on branch `claude/lucid-ptolemy-qz9kv3` (it contains everything from `claude/intelligent-faraday-scp7sh`). **`main` is behind** and still has the Phase 1 handoff; merge when I decide.
 
 ## Read these first
-1. `CLAUDE.md`: your role (PM), scope rule, copyright rule, persona role-play rule
-2. `checklist.md`: the task list
-3. `01-concept-brief.md`: concept, MVP scope, positioning
-4. `project-plan.md`: every decision with its reason
-5. `research/persona.md`: the primary persona (me), with evidence tags and open questions
-6. `research/competitors.md` and `ideas.md` as needed
+1. `CLAUDE.md`: PM role, scope rule, copyright rule, persona role-play rule
+2. `checklist.md`
+3. `01-concept-brief.md` (MVP scope) and `project-plan.md` (Decisions)
+4. `research/journey.md` → `research/user-stories.md`
+5. `research/persona.md` as needed
 
-## Decided this session (don't reopen)
-- **Positioning:** "your pages stay yours: nothing is read unless you choose." Patterns come from my own notes in v1.
-- **Artist date** gets an optional **"what came out of it?"** note (text only) in the MVP.
-- **AI handwriting scan** parked for later, with conditions (opt-in, after week 8, pages I pick) in `ideas.md`.
-- Mobbin references for Phase 3; the name stays **Artist's Sketchbook**.
+## Decided in this session (don't reopen)
+- **Persona candidates (2026-11-21):** log today + yesterday; mood = how the pages felt; paper card + home-screen shortcut (no reminders); theme and idea = two free-text fields; heavy day → room first, then "what's clearer now?" (never cheer up; help resources only if I turn them on); weekly patterns in the day-7 check-in, "new pattern" card parked; bilingual notes + manual theme merge, English UI; irregular writing is normal; success = insight, not completion.
+- **Journey candidates (2026-11-27):** an always-available "so far" recap (progress, moods, ideas) as a mode of the pattern view; one tap turns an idea into the next artist date; the pattern view leads with recurring ideas, moods and themes as context; "start again from week 1" exists but is secondary; "pause" gets renamed.
+- **Role-play rules that became criteria:** wordless "heavy" option (R1); one line max in hard moments (R2); check-in leads with what surfaced (R3); no gap count anywhere (R4); "nothing to log today" is a calm, complete state (R5).
 
-## Waiting for my decision (persona candidates, `research/persona.md`)
-1. **Log late without penalty**, including yesterday (new scope). Sub-question: does the capture ask for the mood *while writing* or *now*?
-2. **Remembering to open the app:** a cue on the paper side (card in the notebook) + home-screen shortcut; reminders stay parked.
-3. **Medium-neutral capture:** theme = what the pages were about; idea = a creative idea; both free text.
-5. **Heavy day → "what's clearer now?"**: unload first, then invite one idea (adjusts the decided "one constructive next step").
-6. **Pattern nudges** (new scope): weekly patterns in the day-7 check-in (small); rule-based "new pattern" card inside the app from week 3, no AI, no push (moderate).
-7. **Bulgarian and English notes**, with manual merging of synonym themes; Cyrillic-ready fonts. UI language still open.
-8. **Irregular writing is normal** (reinforces no streaks / comeback).
-- *(4, linking patterns to my creative goal, is parked.)*
-
-**PM recommendation also pending:** I'm not writing pages regularly now, so there is no real data. Try a **paper prototype of the capture** for 1–2 weeks: after each page session, write mood · 1–2 themes · one idea in the notebook margin. It produces real data for the pattern view and tests the quit risks (writing for the tag, patterns saying nothing new) before anything is built.
+## Waiting for my decision
+1. The 4 open questions in `research/user-stories.md` (export; cut-line order of the Should stories; data threshold; what a real ending feels like).
+2. **Paper prototype:** PM recommends starting it now in the notebook margin (mood · 1–2 themes · one idea, ~30 s per session). It's the only way to test the ideas-first pattern view with real data. Not yet confirmed.
+3. Optional second archetype: PM recommends **skip** (I have kids, so the time-starved parent mostly duplicates the primary persona).
 
 ## Next tasks (Phase 2)
-1. Decide the persona candidates above; log them in `project-plan.md`.
-2. Optional second archetype (time-starved parent): write or skip.
-3. **User journey with mental model** → `research/journey.md`: per step, what happened, what was expected, what she thinks, what she feels. Use the persona's "Through the 12 weeks" strip, quit risks and test scenarios. Weeks 6–12 have no evidence: mark them as assumptions.
-4. Persona walkthrough on Mobbin, fresh-eyes review (5 subagents), scope the MVP, handoff to Design.
+1. Decide the items above; review the user stories.
+2. **Persona walkthrough** on Mobbin (competitor onboarding + check-in flows, as the persona) → artifact.
+3. **Fresh-eyes review:** 5 independent designer subagents with only brief + persona + journey + user stories → `research/synthesis.md`.
+4. **Scope the MVP:** confirm the story list as the v1 feature list; park the rest.
+5. Handoff to Phase 3 (Design) with `project-scope.md`.
 
 ## Environment notes
-- **Mobbin connector works.**
-- Web pages: the environment allows `apps.apple.com`, `morningpages.app`, `750words.com`, `www.literati.tools`. The page-reading helper ignores this list, so fetch with `curl` instead. 750words.com blocks automated visits (403).
+- Mobbin connector works (when connected). Web pages: fetch allowed hosts with `curl` (see the 2026-11-21 notes in git history); 750words.com blocks automated visits.
 
 ## First prompt for the new session
-> Read HANDOFF.md, then CLAUDE.md, and tell me where we are. Then walk me through the persona's design candidates one by one so I can decide them, and after that start the user journey.
+> Read HANDOFF.md, then CLAUDE.md, and tell me where we are. Then walk me through the open questions in the user stories one by one, and after that start the persona walkthrough on Mobbin.
