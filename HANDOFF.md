@@ -9,7 +9,7 @@
   - ✅ **User stories** → `research/user-stories.md` v1.1: 25 stories, 7 epics; all 4 open questions decided; walkthrough candidates C1–C4 folded in
   - ✅ **Persona walkthrough** → `research/persona-walkthrough.md` + artifact https://claude.ai/artifact/LcjnxUEJY4QxoNzEN5xth7 (private): 27 Mobbin screens, 17 apps, six moments
   - 🟡 **Paper prototype** started 2026-11-27 → `research/paper-prototype.md` (1–2 weeks of margin notes; sets the US-13 threshold)
-- **Git:** `main` was fast-forwarded to `claude/lucid-ptolemy-qz9kv3` (2026-11-27). This session's work is on `claude/adoring-allen-sr5g7v` (ahead of `main`); merge when I decide.
+- **Git:** `main` is up to date (2026-11-27): it contains `claude/lucid-ptolemy-qz9kv3` and all of this session's work from `claude/adoring-allen-sr5g7v`.
 
 ## Read these first
 1. `CLAUDE.md`: PM role, scope rule, copyright rule, persona role-play rule
