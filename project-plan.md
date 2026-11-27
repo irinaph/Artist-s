@@ -59,6 +59,7 @@
   - **The pattern view leads with recurring ideas; moods and themes are context:** in the role-play, ideas were what made the check-in worth it and what would save thin patterns.
   - **"Start again from week 1" stays, as a secondary option:** some may want it, but starting over is the fear, so the primary choices are pick up / join the current week, and "pause" gets renamed.
   - **Role-play details confirmed:** I write in the kitchen before everyone wakes; I have kids. Added to the persona as [me].
+- **User stories, export (2026-11-27):** keep export in v1 (Must) as a single "Download my notes" file, export only; import is parked for v1.1. Twelve weeks of patterns in one artifact is a single point of failure, and export is what makes "never lost / never locked in" true.
 
 ### Superseded by the reconcept (kept for the case study)
 - ~~MVP focus: building good habits~~ · ~~Start with 1–3 habits~~ · ~~Flexible frequency~~ · ~~Identity input: suggestions + free text~~ · ~~Name: Grains~~. These were Atomic Habits-specific. The old brief is in `archive/01-concept-brief-atomic-habits.md`.

@@ -199,16 +199,17 @@ As a returning creative, I want a closing moment after week 12 that looks back a
 **US-25 Saved between visits** · Must
 As a returning creative, I want my logs and notes to persist so that weeks of patterns are never lost.
 - [ ] Data survives closing the app, reloading and coming back weeks later.
-- [ ] I can export my notes (e.g. a file) so they're never locked in.
-*Source: brief; X3. Export is new: flagged in open questions.*
+- [ ] One "Download my notes" control in settings saves a plain text/CSV file: dates, moods, themes, ideas, artist dates and their notes.
+- [ ] Export only; no import in v1 (parked for v1.1).
+*Source: brief; X3; decision 2026-11-27 (export only).*
 
 ---
 
 ## Not in v1 (see `ideas.md`)
-"New pattern" card · Bulgarian UI · linking patterns to my creative goal · reminders · AI handwriting scan · photos for date notes · weekly tasks · share card (v1.1) · testers' demo copy (Phase 7).
+"New pattern" card · Bulgarian UI · import from export file (v1.1) · linking patterns to my creative goal · reminders · AI handwriting scan · photos for date notes · weekly tasks · share card (v1.1) · testers' demo copy (Phase 7).
 
 ## Open questions
-1. **Export (US-25):** I added it so my notes are never locked in a Claude artifact. It's small, but new scope: keep or park?
+1. ~~**Export (US-25):**~~ ✅ decided 2026-11-27: keep (Must), export only; import parked for v1.1.
 2. **Priority cut line:** if the build runs long, the Should stories (US-15, US-18, US-21) go first. Agree with that order?
 3. **US-13 threshold:** "~5 captures" before anything beyond a list is a guess; the paper prototype would set it.
 4. **US-24:** what would feel like a real ending? (still open from the journey)

@@ -7,6 +7,10 @@ Things outside the MVP. Each has the user problem behind it and when to revisit.
   - **User problem:** accountability (finish the 12 weeks), celebration (milestones), inspiring others to try the practice. Also a strong portfolio showcase.
   - **Watch out:** public posting can turn into pressure or comparison; this goes against the calm tone. Make sharing opt-in and milestone-based, never prompted daily.
   - **Revisit:** after a few weeks of real use. Am I actually wanting to share?
+- **Import notes from an export file** — added 2026-11-27
+  - **What:** load a file made by "Download my notes" (US-25) back into the app.
+  - **User problem:** restore after data loss, or move to a new artifact/device. v1's export is a readable backup only.
+  - **Revisit:** after the MVP ships, or sooner if I ever lose data.
 
 ## Later
 - **"New pattern" card (rule-based, in-app)** — added 2026-11-21
