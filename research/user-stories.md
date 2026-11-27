@@ -4,7 +4,7 @@
 
 ## How to read this
 - Format: **As a returning creative, I want … so that …**, then **acceptance criteria** (testable; these become the Phase 5 eval criteria) and the **source** (decision, journey step or role-play finding R1–R7).
-- **Priority:** **Must** = v1 doesn't work without it · **Should** = in v1, first to cut if the build runs long.
+- **Priority:** **Must** = v1 doesn't work without it · **Should** = in v1, first to cut if the build runs long, in this order: US-21 → US-15 → US-18.
 - Copy rule for every story: our own words, never the book's text; hard moments get **one line, max** (R2).
 - Wording: "pages" are always the handwritten ones. The app never stores or reads them.
 
@@ -210,6 +210,6 @@ As a returning creative, I want my logs and notes to persist so that weeks of pa
 
 ## Open questions
 1. ~~**Export (US-25):**~~ ✅ decided 2026-11-27: keep (Must), export only; import parked for v1.1.
-2. **Priority cut line:** if the build runs long, the Should stories (US-15, US-18, US-21) go first. Agree with that order?
+2. ~~**Priority cut line:**~~ ✅ decided 2026-11-27: if the build runs long, cut US-21 → US-15 → US-18 (US-18 last).
 3. **US-13 threshold:** "~5 captures" before anything beyond a list is a guess; the paper prototype would set it.
 4. **US-24:** what would feel like a real ending? (still open from the journey)
