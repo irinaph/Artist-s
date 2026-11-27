@@ -193,9 +193,9 @@
 2. ✅ **Idea → artist date** (accepted): turn a recurring idea into the next artist date with one tap? *(small new scope; serves goal 2)*
 3. ✅ **Pattern view leads with ideas** (R6, accepted): recurring ideas first, moods and themes as context. *(a design direction, not new scope; decide before Phase 3 flows)*
 4. ✅ **"Start again from week 1" stays, but secondary** (R7, changed): pick up where I left off / join the current week are the primary choices; restart is available, never pushed.
-5. ⏳ **Run the paper prototype now** (1–2 weeks, mood · 1–2 themes · one idea in the notebook margin) before the fresh-eyes review, to get real data for step 7a.
+5. ✅ **Run the paper prototype now** (started 2026-11-27 → `research/paper-prototype.md`) (1–2 weeks, mood · 1–2 themes · one idea in the notebook margin) before the fresh-eyes review, to get real data for step 7a.
 
 ## Open questions
 - Step 3: is a heavy option without words enough, or does she still want to name it?
 - Step 4: does a patchy first week shown back feel like noticing or like a report card? (test in role-play)
-- Step 10: what would feel like a real ending?
+- ~~Step 10: what would feel like a real ending?~~ ✅ 2026-11-27: a look back, then one idea to carry forward (US-24).

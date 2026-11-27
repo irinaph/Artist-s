@@ -191,9 +191,12 @@ As a returning creative, I want extra permission and calm in the first weeks so 
 **US-24 Course complete** · Must
 As a returning creative, I want a closing moment after week 12 that looks back at what surfaced so that the course has an ending.
 - [ ] Shown once after week 12; reopenable.
-- [ ] Leads with recurring ideas and what my dates produced, not stats (uses US-15).
+- [ ] Leads with recurring ideas and what my dates produced (idea → date → what came out), not stats (uses US-15).
+- [ ] Then one optional question: which idea do I want to keep going with? Picking one (or none) is one tap.
+- [ ] After the course, the chosen idea is the first thing I see; "Pages done", capture and the pattern view keep working. Nothing locks or disappears.
+- [ ] The formal ending is for week 12 only; stopping early is covered by the "so far" recap (US-15), with no "the end" screen.
 - [ ] No confetti-style celebration unless I decide otherwise in Phase 4.
-*Source: brief; journey step 10.*
+*Source: brief; journey step 10; decision 2026-11-27 (ending = look back + one idea to carry forward).*
 
 ## E7. My data
 **US-25 Saved between visits** · Must
@@ -206,10 +209,10 @@ As a returning creative, I want my logs and notes to persist so that weeks of pa
 ---
 
 ## Not in v1 (see `ideas.md`)
-"New pattern" card · Bulgarian UI · import from export file (v1.1) · linking patterns to my creative goal · reminders · AI handwriting scan · photos for date notes · weekly tasks · share card (v1.1) · testers' demo copy (Phase 7).
+"New pattern" card · Bulgarian UI · import from export file (v1.1) · letter to future me · linking patterns to my creative goal · reminders · AI handwriting scan · photos for date notes · weekly tasks · share card (v1.1) · testers' demo copy (Phase 7).
 
 ## Open questions
 1. ~~**Export (US-25):**~~ ✅ decided 2026-11-27: keep (Must), export only; import parked for v1.1.
 2. ~~**Priority cut line:**~~ ✅ decided 2026-11-27: if the build runs long, cut US-21 → US-15 → US-18 (US-18 last).
 3. ~~**US-13 threshold:**~~ ✅ decided 2026-11-27: 5 captures, provisional; the paper prototype (started 2026-11-27) sets the real number.
-4. **US-24:** what would feel like a real ending? (still open from the journey)
+4. ~~**US-24:**~~ ✅ decided 2026-11-27: a look back, then one idea to carry forward; the app keeps working after week 12. "Letter to future me" parked in `ideas.md`.

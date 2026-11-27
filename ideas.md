@@ -12,6 +12,12 @@ Things outside the MVP. Each has the user problem behind it and when to revisit.
   - **User problem:** restore after data loss, or move to a new artifact/device. v1's export is a readable backup only.
   - **Revisit:** after the MVP ships, or sooner if I ever lose data.
 
+- **Letter to future me at the course ending** — added 2026-11-27
+  - **What:** at course complete (US-24), an optional short note to myself, shown again after a set time (e.g. 3 months).
+  - **User problem:** keeping the course's insight alive after week 12; a personal, reflective close.
+  - **Watch out:** a timed reveal is new scope (scheduling, a new state); keep it optional and quiet.
+  - **Revisit:** after I finish my own 12 weeks with v1. Did the "carry one idea forward" ending feel like enough?
+
 ## Later
 - **"New pattern" card (rule-based, in-app)** — added 2026-11-21
   - **What:** when I open the app, a card says something new showed up (e.g. a theme 3+ times in a week, a mood shift). No AI, no push, from week 3.
