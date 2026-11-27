@@ -18,6 +18,12 @@ Things outside the MVP. Each has the user problem behind it and when to revisit.
   - **Watch out:** a timed reveal is new scope (scheduling, a new state); keep it optional and quiet.
   - **Revisit:** after I finish my own 12 weeks with v1. Did the "carry one idea forward" ending feel like enough?
 
+- **AI shapes my ideas (beyond linking)** — added 2026-11-27
+  - **What:** AI goes further than S1b's "these look like the same idea": it helps develop an idea I wrote, e.g. suggests a small next step, a way to turn it into an artist date, or variations in my medium.
+  - **User problem:** goal 2, direction for creative plans: a recurring idea is found, but I don't know what to do with it.
+  - **Watch out:** this is the "AI interpretation, affirmations or plans" line from the avoid list. It must work only on my idea text, only when I ask, never on pages or moods, and never sound like a coach. US-18 (idea → artist date) already covers the simplest version without AI.
+  - **Revisit:** after the 12 weeks with v1. Did I have recurring ideas and get stuck on what to do with them?
+
 ## Later
 - **"New pattern" card (rule-based, in-app)** — added 2026-11-21
   - **What:** when I open the app, a card says something new showed up (e.g. a theme 3+ times in a week, a mood shift). No AI, no push, from week 3.

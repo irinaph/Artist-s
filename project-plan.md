@@ -70,7 +70,7 @@
   - **C4 Runna's two equal cards are the layout reference for the missed-week choice:** the only comeback screen that offered calm, equal options; our copy drops "missed".
 - **No second archetype (2026-11-27):** the MVP is for me only, and an invented second persona would add portfolio decoration with no real data behind it; the case study stays honest with one real user.
 - **Journey v2 signed off (2026-11-27):** `research/journey.md` v2 is final for Discovery; its candidates were already decided and step 10 (ending) answered, so it is ready to feed Phase 3 flows.
-- **Positioning updated: "AI shapes your own ideas" (2026-11-27):** the market leader's selling point is "AI reads your pages"; ours is that AI works only on the ideas I write myself and never on the pages. Replaces "nothing is read unless you choose" (2026-11-21) now that S1b sends idea text to AI.
+- **Positioning updated: "AI connects your own ideas" (2026-11-27):** the market leader's selling point is "AI reads your pages"; ours is that AI works only on the ideas I write myself and never on the pages. Replaces "nothing is read unless you choose" (2026-11-21) now that S1b sends idea text to AI. "Connects" matches what S1b does (links only); a fuller "AI shapes my ideas" is parked in `ideas.md`.
 - **S1b: AI-suggested idea links, opt-in (2026-11-27):** the fresh-eyes review found no way to detect recurring free-text ideas across two languages (5/5); AI matches "dusk video" with "видео на залез" where rules can't. Limits: it only proposes pairs, nothing counts until I confirm, no summaries or interpretation, never during the 10 s capture, and manual linking (S1) stays as the fallback. X3 rewritten to match.
 
 ### Superseded by the reconcept (kept for the case study)
