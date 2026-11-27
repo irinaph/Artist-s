@@ -113,7 +113,7 @@ As a returning creative, I want the pattern view to lead with my recurring ideas
 
 **US-13 Useful with little data** · Must
 As a returning creative, I want the pattern view to make sense with only a few irregular notes so that week 5 isn't a disappointment.
-- [ ] With fewer than ~5 captures it shows a "so far" list, not charts.
+- [ ] With fewer than 5 captures it shows a "so far" list, not charts. *(5 is provisional; the paper prototype sets it, see `research/paper-prototype.md`.)*
 - [ ] Weeks 1–2: visible, with a calm empty state and no pushed insights.
 - [ ] No wording ever suggests writing more or differently to get "better" patterns (Q4 writing for the tag).
 *Source: decision "pattern view low-key in weeks 1–2"; journey step 7a.*
@@ -211,5 +211,5 @@ As a returning creative, I want my logs and notes to persist so that weeks of pa
 ## Open questions
 1. ~~**Export (US-25):**~~ ✅ decided 2026-11-27: keep (Must), export only; import parked for v1.1.
 2. ~~**Priority cut line:**~~ ✅ decided 2026-11-27: if the build runs long, cut US-21 → US-15 → US-18 (US-18 last).
-3. **US-13 threshold:** "~5 captures" before anything beyond a list is a guess; the paper prototype would set it.
+3. ~~**US-13 threshold:**~~ ✅ decided 2026-11-27: 5 captures, provisional; the paper prototype (started 2026-11-27) sets the real number.
 4. **US-24:** what would feel like a real ending? (still open from the journey)

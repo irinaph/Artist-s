@@ -61,6 +61,7 @@
   - **Role-play details confirmed:** I write in the kitchen before everyone wakes; I have kids. Added to the persona as [me].
 - **User stories, export (2026-11-27):** keep export in v1 (Must) as a single "Download my notes" file, export only; import is parked for v1.1. Twelve weeks of patterns in one artifact is a single point of failure, and export is what makes "never lost / never locked in" true.
 - **User stories, cut order (2026-11-27):** if the build runs long, cut the Should stories US-21 (help resources) → US-15 ("so far" recap) → US-18 (idea → artist date). US-21 is invisible by default; US-18 is the only one that turns a pattern into action, so it stays longest.
+- **Pattern threshold + paper prototype (2026-11-27):** keep 5 captures as a provisional threshold for the pattern view (US-13) and start the paper prototype now. Real margins from my own mornings should set the number and show whether I actually write ideas, before Phase 3 designs the view.
 
 ### Superseded by the reconcept (kept for the case study)
 - ~~MVP focus: building good habits~~ · ~~Start with 1–3 habits~~ · ~~Flexible frequency~~ · ~~Identity input: suggestions + free text~~ · ~~Name: Grains~~. These were Atomic Habits-specific. The old brief is in `archive/01-concept-brief-atomic-habits.md`.
