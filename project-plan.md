@@ -63,6 +63,11 @@
 - **User stories, cut order (2026-11-27):** if the build runs long, cut the Should stories US-21 (help resources) → US-15 ("so far" recap) → US-18 (idea → artist date). US-21 is invisible by default; US-18 is the only one that turns a pattern into action, so it stays longest.
 - **Pattern threshold + paper prototype (2026-11-27):** keep 5 captures as a provisional threshold for the pattern view (US-13) and start the paper prototype now. Real margins from my own mornings should set the number and show whether I actually write ideas, before Phase 3 designs the view.
 - **Course ending (2026-11-27):** after week 12, a look back led by recurring ideas and idea → date → outcome, then one optional "which idea do I keep going with?"; the app keeps working after the course. Success is insight, so the ending hands me one idea to act on instead of closing the file. Formal ending is week 12 only; stopping early uses the "so far" recap. A "letter to future me" is parked.
+- **Persona walkthrough candidates accepted (2026-11-27):** (`research/persona-walkthrough.md`, 27 Mobbin screens, role-play)
+  - **C1 One welcome-back line on onboarding screen 1, no question:** being recognized as returning was the only warm onboarding moment; a line gets it without adding a screen.
+  - **C2 Pattern view is text-first at every data level (counted list main, charts secondary):** the plain counted list read fastest and covers screen readers by default; color-coded charts read as a verdict.
+  - **C3 Mood options are icon + word, plus a wordless "heavy":** fast like Insight Timer, never color-only, and no word needed on a heavy morning.
+  - **C4 Runna's two equal cards are the layout reference for the missed-week choice:** the only comeback screen that offered calm, equal options; our copy drops "missed".
 
 ### Superseded by the reconcept (kept for the case study)
 - ~~MVP focus: building good habits~~ · ~~Start with 1–3 habits~~ · ~~Flexible frequency~~ · ~~Identity input: suggestions + free text~~ · ~~Name: Grains~~. These were Atomic Habits-specific. The old brief is in `archive/01-concept-brief-atomic-habits.md`.

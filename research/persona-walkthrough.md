@@ -18,7 +18,7 @@
 - **US-12 / R6:** no app surfaces ideas; frequent words and moods repeat the obvious ("time, family").
 - **US-20:** every weekly view leads with scores, completion or AI-written advice. A week back in the person's own words is our gap.
 
-## New candidates (to decide)
+## New candidates (accepted 2026-11-27, folded into US-01, 07, 11, 13, 16)
 - **C1** One line on onboarding screen 1 that welcomes a return, no question (from 5 Minute Journal's "tried before" option). Copy only.
 - **C2** Pattern view text-first at every data level: a counted list (Liven) is the main form, charts secondary.
 - **C3** Mood options as icon + word (Insight Timer), plus a wordless "heavy" mark; never color alone.

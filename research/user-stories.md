@@ -1,5 +1,5 @@
 # User stories: Artist's Sketchbook v1
-**Phase 2: Discovery, step "Scope the MVP" · 2026-11-27 · draft v1 (for my review)**
+**Phase 2: Discovery, step "Scope the MVP" · 2026-11-27 · v1.1 (open questions decided; walkthrough C1–C4 folded in)**
 **Built from:** `01-concept-brief.md` (MVP scope), `research/persona.md` v4, `research/journey.md` v2 and every decision in `project-plan.md` up to 2026-11-27.
 
 ## How to read this
@@ -23,8 +23,9 @@ As a returning creative, I want to start by picking a start date so that week 1 
 - [ ] A start date can be today or a chosen date; week 1 begins on it.
 - [ ] Onboarding is at most 2 screens and can be finished in under a minute.
 - [ ] The first screen says, in one or two lines, that the pages stay on paper and the app only keeps my short notes.
+- [ ] One line on the first screen welcomes a return (starting again is normal; the course begins from the date I pick). No question, no branching (C1).
 - [ ] Nothing in onboarding mentions streaks, daily targets or "don't break the chain".
-*Source: start-day decision; journey step 0 (break the "tracker = judge" model).*
+*Source: start-day decision; journey step 0 (break the "tracker = judge" model); walkthrough C1.*
 
 **US-02 Add to home screen** · Must
 As a returning creative, I want a home-screen shortcut so that the app opens in one tap from my phone.
@@ -67,6 +68,7 @@ As a returning creative, I want to note how the pages felt, 1–2 themes and one
 **US-07 A heavy morning** · Must
 As a returning creative, I want the app to make room when the pages were heavy so that I can leave it without being chased away.
 - [ ] One of the mood choices means "heavy" **without needing a word for the feeling** (R1).
+- [ ] Every mood option is an icon + a word; none relies on color (C3, X1).
 - [ ] Choosing it shows **one line** that the heavy part is done and an early dip is normal.
 - [ ] Then an **optional** "what's clearer now?" field; skipping it is one tap and nothing follows.
 - [ ] An idea saved here is marked as "after a heavy page" for the pattern view.
@@ -96,7 +98,7 @@ As a returning creative, I want the app to open on today after a gap so that I c
 
 **US-11 Come back after a missed week** · Must
 As a returning creative, I want to choose how to continue after a week away so that I never have to start over unless I want to.
-- [ ] After 7+ days without a log, I see two primary choices: **pick up where I left off** or **join the current week**. Neither is styled as the "right" one.
+- [ ] After 7+ days without a log, I see two primary choices: **pick up where I left off** or **join the current week**, as two equal cards (layout reference: Runna, C4). Neither is styled as the "right" one; no "missed" wording.
 - [ ] **Start again from week 1** is available as a secondary option (e.g. a text link), never a primary button or default.
 - [ ] One sentence of inspiration, our own words.
 - [ ] The word "pause" isn't used in a way that reads as "wait until you're ready" (R7).
@@ -113,7 +115,8 @@ As a returning creative, I want the pattern view to lead with my recurring ideas
 
 **US-13 Useful with little data** · Must
 As a returning creative, I want the pattern view to make sense with only a few irregular notes so that week 5 isn't a disappointment.
-- [ ] With fewer than 5 captures it shows a "so far" list, not charts. *(5 is provisional; the paper prototype sets it, see `research/paper-prototype.md`.)*
+- [ ] The pattern view is **text-first at every data level**: a plainly counted list is the main form; charts, if any, are secondary (C2).
+- [ ] With fewer than 5 captures it shows only the "so far" list. *(5 is provisional; the paper prototype sets it, see `research/paper-prototype.md`.)*
 - [ ] Weeks 1–2: visible, with a calm empty state and no pushed insights.
 - [ ] No wording ever suggests writing more or differently to get "better" patterns (Q4 writing for the tag).
 *Source: decision "pattern view low-key in weeks 1–2"; journey step 7a.*
@@ -134,7 +137,7 @@ As a returning creative, I want a recap of my progress, moods and ideas so far, 
 
 **US-16 Accessible patterns** · Must
 As a returning creative using a screen reader or without color, I want every pattern available as text so that nothing depends on seeing a chart.
-- [ ] Every chart has a text equivalent; moods are never color-only.
+- [ ] Every chart has a text equivalent (covered by default: the counted list is the main form, C2); moods are never color-only.
 *Source: brief accessibility criteria.*
 
 ## E5. Artist dates
