@@ -41,7 +41,7 @@ personal use + portfolio case study · a companion for the 12-week course · mob
   - [x] ~~Optional: one more archetype for the portfolio story~~ (skipped 2026-11-27)
 - [x] **User journey with mental model:** for each step, note what happened, what was expected, what they think, what they feel → `research/journey.md` (v2 2026-11-23: role-play of the five hardest moments folded in; signed off 2026-11-27)
 - [x] **Persona walkthrough** (done 2026-11-27): role-play through 27 screens / 17 apps, six moments → `research/persona-walkthrough.md` + artifact; candidates C1–C4 waiting for my decision
-- [ ] **Fresh-eyes review:** spawn 5 independent designer subagents with only the brief + persona + journey → `research/synthesis.md` (where do all 5 agree? what are the outliers?)
+- [x] **Fresh-eyes review:** spawn 5 independent designer subagents with only the brief + persona + journey + user stories → `research/synthesis.md` (done 2026-11-27: 18 agreements, outliers, candidates S1–S12 waiting for my decision)
 - [ ] **Scope the MVP:** confirm the v1 feature list; park everything else in `ideas.md`
   - [ ] **User stories** with acceptance criteria → `research/user-stories.md` (draft v1 2026-11-27: 25 stories, 7 epics; 4 open questions)
   - [ ] **Paper prototype of the capture** (1–2 weeks: mood · 1–2 themes · one idea in the notebook margin) to test ideas-first patterns with real data (started 2026-11-27 → `research/paper-prototype.md`)
