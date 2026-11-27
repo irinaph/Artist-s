@@ -41,13 +41,14 @@ personal use + portfolio case study · a companion for the 12-week course · mob
   - [x] ~~Optional: one more archetype for the portfolio story~~ (skipped 2026-11-27)
 - [x] **User journey with mental model:** for each step, note what happened, what was expected, what they think, what they feel → `research/journey.md` (v2 2026-11-23: role-play of the five hardest moments folded in; signed off 2026-11-27)
 - [x] **Persona walkthrough** (done 2026-11-27): role-play through 27 screens / 17 apps, six moments → `research/persona-walkthrough.md` + artifact; candidates C1–C4 waiting for my decision
-- [x] **Fresh-eyes review:** spawn 5 independent designer subagents with only the brief + persona + journey + user stories → `research/synthesis.md` (done 2026-11-27: 18 agreements, outliers, candidates S1–S12 waiting for my decision)
+- [x] **Fresh-eyes review:** spawn 5 independent designer subagents with only the brief + persona + journey + user stories → `research/synthesis.md` (done 2026-11-27: 18 agreements, outliers; S1–S12 + S1b accepted)
 - [ ] **Scope the MVP:** confirm the v1 feature list; park everything else in `ideas.md`
-  - [ ] **User stories** with acceptance criteria → `research/user-stories.md` (draft v1 2026-11-27: 25 stories, 7 epics; 4 open questions)
+  - [x] **User stories** with acceptance criteria → `research/user-stories.md` (v1.2 2026-11-27: 28 stories, 7 epics; open questions and fresh-eyes S1–S12 folded in)
   - [ ] **Paper prototype of the capture** (1–2 weeks: mood · 1–2 themes · one idea in the notebook margin) to test ideas-first patterns with real data (started 2026-11-27 → `research/paper-prototype.md`)
 - [ ] **Handoff:** `HANDOFF.md` + `project-scope.md` + a first prompt for the Design session
 
 ## Phase 3 — UX flows (session: *Design*)
+- [ ] **First: the time and state model** (S3): course week vs calendar, what "pick up" shifts, day boundary, what counts as activity, a check-in not opened on day 7, one thing at a time on open → top of `design/flows.md`
 - [ ] Map the core flows: **start the course** · **pages tap + 10 s capture** · **pattern view** · **artist date (plan/done + "what came out of it?" note)** · **weekly check-in** · **early support, weeks 1–4** · **light 12-week path** → `design/flows.md`
 - [ ] Pattern research with 3 parallel Mobbin researchers, one per moment:
   - [ ] onboarding / starting a program
@@ -69,7 +70,9 @@ personal use + portfolio case study · a companion for the 12-week course · mob
 
 ## Phase 5 — Build (session: *Build*)
 - [ ] Have the agent write the build prompt from the handoff (I review and trim it)
-- [ ] Build mobile-first web app as a Claude artifact with **saved data** (my pages log and check-ins persist between visits)
+- [ ] **Spike first:** the private artifact opens on my phone in one tap, logged in, from the home-screen icon and the notebook QR, with the same data; the page can call Claude for idea links (S1b)
+- [ ] Build mobile-first web app as a Claude artifact with **saved data** (my pages log and check-ins persist between visits); **week-1 slice first** (S9)
+- [ ] Make the **separate demo copy** for testing now, so testing never touches my data (moved from Phase 7, S12)
 - [ ] Use only `DESIGN.md` tokens/components — no one-off styles
 - [ ] **Real data, no mock data** — test with my actual pages and artist dates
 - [ ] Ask the agent: "I expect gaps — find what we missed" (states, edge cases, empty screens)
@@ -83,7 +86,7 @@ personal use + portfolio case study · a companion for the 12-week course · mob
 
 ## Phase 7 — Test & iterate (v1.1)
 - [ ] Decide on the **"share your week" card** (v1.1 candidate in `ideas.md`): would I actually share after a few weeks of use?
-- [ ] Make a **separate demo copy** for testers (they must not see or overwrite my data), then share it with 3–5 people for feedback; give them 1–2 tasks (start the course, log pages, do a weekly check-in)
+- [ ] Share the **demo copy** (made in Phase 5) with 3–5 people for feedback; give them 1–2 tasks (start the course, log pages, do a weekly check-in)
 - [ ] Synthesize feedback → prioritize fixes
 - [ ] Re-run the eval skill after changes
 - [ ] 12-week self-test: did I finish the course with it?

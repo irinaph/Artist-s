@@ -24,11 +24,17 @@ Skip freely. A blank margin is a valid result.
 5. **Language:** did the same theme appear in Bulgarian and English? (tests merge, US-14)
 6. **Friction:** did the 30 s ever feel like homework? When did I skip, and why?
 
+*Added 2026-11-27 from the fresh-eyes review (`research/synthesis.md`):*
+7. **Days written:** on how many days did I write pages at all? (sets the 14-day comeback threshold, S4)
+8. **Ideas away from the pages:** did ideas come on days without pages, on a commute or during an artist date? Note them on a separate line in the notebook. (tests "Add an idea any time", S2 / US-27)
+9. **Same idea, different words:** did an idea come back in different words or the other language? Would I have linked them? (tests idea links, S1 / US-28)
+10. **Older notes:** did I want to copy an older margin note into the app? (tests backfill, S10 / US-05)
+
 ## Log
-| Week | Captures | First repeat at capture # | Mornings with an idea | Notes |
-|---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
+| Week | Days written | Captures | First repeat at capture # | Mornings with an idea | Ideas away from pages | Same idea, new words | Wanted to copy older notes? | Notes |
+|---|---|---|---|---|---|---|---|---|
+| 1 | | | | | | | | |
+| 2 | | | | | | | | |
 
 ## Result
-*(fill in after 1–2 weeks: the threshold, whether ideas-first holds, any change to US-06/07/12/13/14)*
+*(fill in after 1–2 weeks: the threshold, whether ideas-first holds, the comeback threshold, whether ideas come away from the pages, whether linking is needed, backfill; any change to US-05/06/07/11/12/13/14/27/28)*

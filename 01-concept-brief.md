@@ -1,12 +1,12 @@
 # Concept Brief v2: Artist's Sketchbook (companion for The Artist's Way)
-*v2, 2026-11-15: re-centered after my self-interview (`research/my-past-attempts.md`). v1 (in `archive/`) made "the 12-week path" the core; the interview showed my real need is seeing my own patterns.*
+*v2, 2026-11-15: re-centered after my self-interview (`research/my-past-attempts.md`). v1 (in `archive/`) made "the 12-week path" the core; the interview showed my real need is seeing my own patterns. v2.1, 2026-11-27: fresh-eyes candidates S1–S12 folded in (`research/synthesis.md`).*
 
 ## The book in one paragraph
 *The Artist's Way* is a **12-week course** for recovering creativity. It rests on two core tools:
 - **Morning pages:** three longhand pages of stream-of-consciousness writing, every morning.
 - **The artist date:** a weekly block of time spent alone doing something that feeds your creative self.
 
-Each week has a theme (Safety, Identity, Power, Integrity, Possibility, Abundance, Connection, Strength, Compassion, Self-Protection, Autonomy, Faith) and ends with a short weekly check-in.
+Each week has its own theme and ends with a short weekly check-in. (The app names the weeks in our own words, written in Phase 4.)
 
 ## The problem (from my two past attempts)
 1. **Paper can't show me my patterns.** The pages were a way to get to know myself again, but a notebook gives no overview of my **themes, moods and ideas** over time, and no direction for creative plans.
@@ -24,28 +24,29 @@ You write by hand, as the book asks. Afterwards, the app takes about ten seconds
 ## Book principles → features
 | Principle (book) / need (me) | Feature |
 |---|---|
-| **Morning pages**, longhand, every day | One-tap **"Pages done"** (under 5 s). No typing the pages in the app. A shorter morning counts too (quiet option) |
+| **Morning pages**, longhand, every day | One-tap **"Pages done"** (under 5 s). No typing the pages in the app. A shorter morning counts too (quiet option, never shown as lesser) |
 | Pages are private; not for rereading early on | The app never asks what you wrote. You choose what to capture *about* it, in your own words |
-| **Getting to know myself again** (me) | Optional **10-second capture** after the tap: **mood**, **1–2 themes**, **one idea** |
-| **Direction for creative plans** (me) | A **pattern view**: moods over time, recurring themes, collected ideas. Low-key in weeks 1–2 (empty state, no pushed insights) |
+| **Getting to know myself again** (me) | Optional **10-second capture** after the tap: **mood**, **1–2 themes**, **one idea**. Ideas can also be added **any day, without pages** |
+| **Direction for creative plans** (me) | A **pattern view**: recurring ideas first (linked by me, with optional AI-suggested links), then themes; mood only as each idea's context, no mood timeline. Low-key in weeks 1–2 (empty state, no pushed insights) |
 | **Artist date**, weekly | Plan it (an optional idea) → mark it done. **A small date counts** (e.g. 30 minutes) |
 | **Seeing what the practice produces** (me) | When an artist date is done: an optional **"what came out of it?"** note (one sentence), shown in the pattern view next to my ideas |
-| Permission to create (me: "too old, too busy") | Gentle framing in our own words, strongest in weeks 1–4 and tapering off |
-| Hard days (me: anger, couldn't regroup) | When the pages felt heavy: room first (the heavy part is done; an early dip is normal), then an optional "what's clearer now?" for one idea that surfaced after unloading |
-| **12 weeks, each with a theme** | A **light path frame**: which week I'm in and its theme. Not the main screen |
-| **Weekly check-in** | Day 7: pages count and artist date prefilled (editable) + a short reflection. Invited, never required |
+| Permission to create (me: "too old, too busy") | Gentle framing in our own words, in weeks 1–4 |
+| Hard days (me: anger, couldn't regroup) | When the pages felt heavy: room first (the heavy part is done; in weeks 1–4, an early dip is normal), then an optional "what's clearer now?" note, which I can turn into an idea |
+| **12 weeks, each with a theme** | A **light path frame**: which week I'm in and its theme in our own words. Not the main screen |
+| **Weekly check-in** | Day 7: what surfaced first; artist date prefilled (editable); counts only of what I made (ideas, dates, notes), never page days; a short reflection. Invited, never required |
 | Self-compassion and gentleness | Calm tone; no streak to break; weeks never lock |
 
 ## Core loop
 ```
-Morning: write pages on paper → tap "Pages done" (under 5 s)
+When I write: pages on paper → tap "Pages done" (under 5 s)
           → optional 10 s capture: mood · themes · one idea
+Any day: "Add an idea" (no pages needed)
           ↓
 Week: plan & take a (small) artist date → optional "what came out of it?" note
           ↓
-Day 7: weekly check-in (invited) → the path moves on with the calendar
+Day 7: weekly check-in (invited) → the path moves on (time model: `design/flows.md`, Phase 3)
           ↓
-Over time: the pattern view shows my moods, themes, ideas and what came out of my dates → direction for creative plans
+Over time: the pattern view shows my recurring ideas (with their mood and themes) and what came out of my dates → direction for creative plans
           ↓
 Week 12: course complete moment
 ```
@@ -65,15 +66,15 @@ Week 12: course complete moment
 ## MVP scope (approved, re-centered 2026-11-15)
 **In v1**
 - Start the course: pick a start date (week 1 begins)
-- **Today:** one-tap "Pages done" (a shorter morning counts too; works any time today or for yesterday) → optional 10 s capture (how the pages felt, 1–2 themes, one creative idea; free text in Bulgarian or English)
-- **Pattern view:** leads with **recurring ideas**, with moods and themes as their context; low-key in weeks 1–2; a **"so far" recap** (progress, moods, ideas) open any time, not only at the end; manual merge of same-meaning themes (e.g. "работа" + "work")
+- **Today:** one-tap "Pages done" (a shorter morning counts too; works any time today or for yesterday) → optional 10 s capture (how the pages felt, 1–2 themes, one creative idea; free text in Bulgarian or English); **"Add an idea" any day**, without pages
+- **Pattern view:** leads with **recurring ideas** (I link ideas that are the same; optional AI-suggested links I confirm), with mood and themes as their context; no mood timeline; low-key in weeks 1–2; a **"so far" recap** (ideas, dates, notes; never page days) open any time; manual merge of same-meaning themes (e.g. "работа" + "work")
 - **Artist date:** plan (an optional idea, or **one of my captured ideas in one tap**) / done; small dates count; optional "what came out of it?" note (text only, no photos in v1)
-- **Early support, weeks 1–4 (tapering):** permission framing; on heavy days, room first, then an optional "what's clearer now?", saying an early dip is normal
+- **Early support, weeks 1–4 (on/off):** permission framing; on heavy days, room first, then an optional "what's clearer now?" note, saying an early dip is normal (from week 5 the line drops "early")
 - **Weekly check-in** on day 7: prefilled + the week's patterns + a short reflection. Invited, never required; weeks never lock
 - **Light 12-week path:** current week and theme
-- **Comeback moment** after missed days (a core flow: irregular writing is normal, gaps are never shown as failure); after a **missed week**, I choose **pick up where I left off or join the current week** (one sentence of inspiration); starting again from week 1 is possible but secondary
-- **Course complete** moment after week 12
-- Data saved between visits
+- **Comeback** (a core flow: irregular writing is normal, gaps are never shown as failure): after a short gap the calm Today screen is the comeback, with no welcome-back line; after **14 days with no activity**, a dismissible card offers **pick up where I left off or join the current week** (one sentence of inspiration); starting again from week 1 is possible but secondary
+- **Course complete** moment after week 12 (built around week 8 of my real use)
+- Data saved between visits; **Settings** with export and delete all my data
 - **Remembering:** a paper cue in the notebook (card/bookmark pointing to the app) + home-screen shortcut
 - UI in English only
 
@@ -90,15 +91,15 @@ Week 12: course complete moment
 - Reminders / notifications · typed pages · rereading prompts after the course · repeating the course
 
 ## Constraints
-- **Copyright:** never reproduce the book's task lists, check-in wording or quotes. Weeks are referenced by number and theme; suggestions and inspirations are our own content.
+- **Copyright:** never reproduce the book's task lists, check-in wording, quotes or week-theme names. Weeks are referenced by number and our own short theme; suggestions and inspirations are our own content.
 - **Trademark:** don't use "The Artist's Way" in the app's name.
 - **One-tap pages check-in in under 5 seconds** is the #1 build constraint; the capture is always optional and comes after it.
 - **Not a mental-health tool:** calm, acknowledging copy is in scope; therapy-like features are not.
-- **My data stays mine:** before sharing with testers, decide where data lives; testers get a separate demo copy.
+- **My data stays mine:** testers get a separate demo copy, built in Phase 5 so testing never touches my data. Only idea text ever goes to AI, and only if I turn idea links on.
 
 ## Success criteria (personal use + portfolio)
 - **Real insight comes first:** 6 weeks with real insight counts as success for me; getting past **day 14** and **week 4**, then all **12 weeks**, are the stretch goals
-- After 2 weeks, the pattern view shows me **at least one pattern I didn't notice** on paper
+- **By week 4**, the pattern view shows me **at least one idea I'd forgotten, with its context** (the paper prototype checks this is realistic)
 - The pages check-in takes **under 5 s**; the capture **about 10 s**; the weekly check-in **under 2 min**
 - **Accessibility:** AA contrast; status never shown by color alone; the pattern view has a text alternative and isn't color-only; animations respect reduced motion; touch targets at least 44 px
 - Every design decision traces back to the book, research, or my own use (portfolio rationale)
@@ -106,8 +107,9 @@ Week 12: course complete moment
 ## Decisions so far
 - **Audience:** MVP just for me; opening it to core users is parked in `ideas.md`
 - **Working name:** **Artist's Sketchbook** (check before launch that it isn't too close to the book's title)
-- **Missed week:** I decide: pause the path or continue, with inspiration (our own words). Shown the next time I open the app
+- **Missed week:** after 14 days with no activity I choose pick up where I left off or join the current week (two equal options), with inspiration (our own words); never "pause" as "wait until you're ready"
 - **Start day:** my own start date; the weekly check-in falls on day 7
 - **Tasks:** ~~own words or suggestions~~ → parked in v2 (`ideas.md`)
 - **Re-centered (v2):** from "the app holds the path" to "the app reflects my patterns back to me"
 - **Creative output (2026-11-21):** the artist date gets an optional "what came out of it?" note; the AI handwriting scan is parked for later
+- **Fresh-eyes review (2026-11-27):** ideas get their own entry point and links; counts only of what I make; mood only as context; positioning "AI connects your own ideas" (`research/synthesis.md`)

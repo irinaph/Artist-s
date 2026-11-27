@@ -72,7 +72,7 @@ Five independent subagents got the same task and the same 8 headings, but each h
 ---
 
 ## Candidates for your decision
-*PM recommendation first, then the trade-off. Nothing changes in the stories until you decide.*
+*PM recommendation first, then the trade-off.* **✅ All accepted 2026-11-27**, plus the 4 paper-prototype questions. Folded into `research/user-stories.md` v1.2 (new US-26 Settings, US-27 Add an idea, US-28 Link the same idea), the brief v2.1 and `research/paper-prototype.md`.
 
 **S1. Ideas are linked, not matched** (A1, R4) · *Recommend: accept, Must*
 When she saves an idea, the app offers "same as an earlier idea?" with her recent ideas. One tap links them, and the count comes from the links. Past *themes* are still suggested as text; past *ideas* are not autocompleted. A merge for ideas in the pattern view (extending US-14) is the fallback.

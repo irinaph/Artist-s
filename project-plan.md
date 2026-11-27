@@ -72,6 +72,20 @@
 - **Journey v2 signed off (2026-11-27):** `research/journey.md` v2 is final for Discovery; its candidates were already decided and step 10 (ending) answered, so it is ready to feed Phase 3 flows.
 - **Positioning updated: "AI connects your own ideas" (2026-11-27):** the market leader's selling point is "AI reads your pages"; ours is that AI works only on the ideas I write myself and never on the pages. Replaces "nothing is read unless you choose" (2026-11-21) now that S1b sends idea text to AI. "Connects" matches what S1b does (links only); a fuller "AI shapes my ideas" is parked in `ideas.md`.
 - **S1b: AI-suggested idea links, opt-in (2026-11-27):** the fresh-eyes review found no way to detect recurring free-text ideas across two languages (5/5); AI matches "dusk video" with "видео на залез" where rules can't. Limits: it only proposes pairs, nothing counts until I confirm, no summaries or interpretation, never during the 10 s capture, and manual linking (S1) stays as the fallback. X3 rewritten to match.
+- **Fresh-eyes candidates S1–S12 accepted (2026-11-27):** (`research/synthesis.md`; 5 independent reviewers, given only the brief, persona, journey and stories; all 5 found the data model still assumes a daily writer)
+  - **S1 Ideas are linked, not autocompleted (US-28):** free-text ideas in two languages never match, so "recurring" needs a link I confirm; autocomplete would inflate the counts.
+  - **S2 "Add an idea" any day, without pages (US-27):** the hook shouldn't depend on my least frequent behaviour, and it removes the heavy-day bias from the ideas data.
+  - **S3 A one-page time and state model is the first Phase 3 task:** "pick up where I left off" detaches course weeks from the calendar, and day 7, weeks 1–4 and week 12 all depend on it.
+  - **S4 No welcome-back line; the missed-week card shows after 14 days with no activity, dismissible:** for an irregular writer a 2- or 7-day gap is normal, and noticing it is a gap count.
+  - **S5 Count only what I made, never page days:** "3 page days" in a 7-day check-in reads as 4 missed.
+  - **S6 Mood as context only, no mood timeline:** I write to unload, so a mood series would chart my heavy days.
+  - **S7 "What's clearer now?" is saved as a note, not an idea:** it's often a life insight, and shouldn't sit next to "make it my next artist date".
+  - **S8 Copy and brief fixes:** the heavy option's word names weight, not emotion; "early dip" only in weeks 1–4; stale brief lines replaced; success criterion moved to week 4; the book's week-theme names removed (copyright).
+  - **S9 Sequencing:** the "so far" list moves into US-13 so the cut order can't break it; US-24 built around week 8 of use; a week-1 slice first; early support on/off, no tapering; "shorter pages" kept.
+  - **S10 Backfill stays today + yesterday for now:** the paper prototype tests whether I want older notes.
+  - **S11 New US-26 Settings with delete all data and a static help line; app lock parked; no note text on Today:** three stories pointed to a Settings screen nobody had defined.
+  - **S12 Accessibility additions, evidence tags on every story, demo copy moved to Phase 5:** role-play findings had become Must criteria without being marked as assumptions.
+  - **Paper prototype +4 questions:** days written, ideas away from the pages, the same idea in new words, wanting older notes.
 
 ### Superseded by the reconcept (kept for the case study)
 - ~~MVP focus: building good habits~~ · ~~Start with 1–3 habits~~ · ~~Flexible frequency~~ · ~~Identity input: suggestions + free text~~ · ~~Name: Grains~~. These were Atomic Habits-specific. The old brief is in `archive/01-concept-brief-atomic-habits.md`.
