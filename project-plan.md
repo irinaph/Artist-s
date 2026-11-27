@@ -68,6 +68,8 @@
   - **C2 Pattern view is text-first at every data level (counted list main, charts secondary):** the plain counted list read fastest and covers screen readers by default; color-coded charts read as a verdict.
   - **C3 Mood options are icon + word, plus a wordless "heavy":** fast like Insight Timer, never color-only, and no word needed on a heavy morning.
   - **C4 Runna's two equal cards are the layout reference for the missed-week choice:** the only comeback screen that offered calm, equal options; our copy drops "missed".
+- **No second archetype (2026-11-27):** the MVP is for me only, and an invented second persona would add portfolio decoration with no real data behind it; the case study stays honest with one real user.
+- **Journey v2 signed off (2026-11-27):** `research/journey.md` v2 is final for Discovery; its candidates were already decided and step 10 (ending) answered, so it is ready to feed Phase 3 flows.
 
 ### Superseded by the reconcept (kept for the case study)
 - ~~MVP focus: building good habits~~ · ~~Start with 1–3 habits~~ · ~~Flexible frequency~~ · ~~Identity input: suggestions + free text~~ · ~~Name: Grains~~. These were Atomic Habits-specific. The old brief is in `archive/01-concept-brief-atomic-habits.md`.

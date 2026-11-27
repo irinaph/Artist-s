@@ -38,8 +38,8 @@ personal use + portfolio case study · a companion for the 12-week course · mob
 - [x] **Competitor analysis** (done 2026-11-21; all candidates accepted): verified against live App Store pages: every morning-pages app is typed-first; pattern insights come from AI reading the pages (OpenAI, 500+ words); one app now has artist dates, but none has the 12-week course or early-weeks support; our edge is "the app never reads the pages": *Morning Pages* app, *AM Pages*, 750 Words, the 2012 *Artist's Way Toolkit*, Notion/printable trackers, the paper workbook — core loop, paper vs typing, what's missing → `research/competitors.md`
 - [x] **Persona** focused only on doing the course (not demographics): goals, frustrations, daily context, past attempts → `research/persona.md`
   - [x] Primary: me (real data from my own mornings and past attempts at the course). v4 2026-11-21: all design candidates decided (logged in Decisions); open questions 2–3 left in the file
-  - [ ] Optional: one more archetype for the portfolio story
-- [ ] **User journey with mental model:** for each step, note what happened, what was expected, what they think, what they feel → `research/journey.md` (draft v2 2026-11-23: role-play of the five hardest moments folded in; waiting for my review)
+  - [x] ~~Optional: one more archetype for the portfolio story~~ (skipped 2026-11-27)
+- [x] **User journey with mental model:** for each step, note what happened, what was expected, what they think, what they feel → `research/journey.md` (v2 2026-11-23: role-play of the five hardest moments folded in; signed off 2026-11-27)
 - [x] **Persona walkthrough** (done 2026-11-27): role-play through 27 screens / 17 apps, six moments → `research/persona-walkthrough.md` + artifact; candidates C1–C4 waiting for my decision
 - [ ] **Fresh-eyes review:** spawn 5 independent designer subagents with only the brief + persona + journey → `research/synthesis.md` (where do all 5 agree? what are the outliers?)
 - [ ] **Scope the MVP:** confirm the v1 feature list; park everything else in `ideas.md`

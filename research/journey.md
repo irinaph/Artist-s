@@ -1,5 +1,5 @@
 # User journey with mental model: attempt 3
-**Phase 2: Discovery · draft v2** (v1 2026-11-21; v2 2026-11-23 folds in the persona role-play of the five hardest moments)
+**Phase 2: Discovery · v2, signed off 2026-11-27** (v1 2026-11-21; v2 2026-11-23 folds in the persona role-play of the five hardest moments)
 **Persona:** The Returning Creative (`research/persona.md` v4) · **App:** the MVP as decided on 2026-11-21 (`01-concept-brief.md`)
 
 ## How to read this
