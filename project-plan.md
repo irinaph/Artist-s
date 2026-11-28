@@ -86,6 +86,7 @@
   - **S11 New US-26 Settings with delete all data and a static help line; app lock parked; no note text on Today:** three stories pointed to a Settings screen nobody had defined.
   - **S12 Accessibility additions, evidence tags on every story, demo copy moved to Phase 5:** role-play findings had become Must criteria without being marked as assumptions.
   - **Paper prototype +4 questions:** days written, ideas away from the pages, the same idea in new words, wanting older notes.
+- **Scope written before the paper prototype ends (2026-11-28):** `project-scope.md` v1 is provisional; the open items (thresholds, linking, backfill) don't block the Phase 3 flows, so waiting a week would only stall the time model.
 
 ### Superseded by the reconcept (kept for the case study)
 - ~~MVP focus: building good habits~~ · ~~Start with 1–3 habits~~ · ~~Flexible frequency~~ · ~~Identity input: suggestions + free text~~ · ~~Name: Grains~~. These were Atomic Habits-specific. The old brief is in `archive/01-concept-brief-atomic-habits.md`.

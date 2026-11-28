@@ -25,6 +25,14 @@ Things outside the MVP. Each has the user problem behind it and when to revisit.
   - **Revisit:** after the 12 weeks with v1. Did I have recurring ideas and get stuck on what to do with them?
 
 ## Later
+- **App lock / discreet mode** — added 2026-11-27 (fresh-eyes S11)
+  - **What:** an optional lock (PIN or device unlock) or a discreet icon and name.
+  - **User problem:** I share the phone with my kids; heavy-day notes and themes are private.
+  - **Why parked:** v1's cheap fix is that Today shows no note text. Revisit if I ever feel exposed with the phone in someone else's hands.
+- **Mood over time (opt-in)** — added 2026-11-27 (fresh-eyes S6)
+  - **What:** a mood series or chart, off by default.
+  - **User problem:** seeing how the pages felt across weeks.
+  - **Why parked:** I write to unload, so most captures will be heavy; a timeline would chart my low points. v1 shows mood only as each idea's context. Revisit after 12 weeks of real data, only if I miss it.
 - **"New pattern" card (rule-based, in-app)** — added 2026-11-21
   - **What:** when I open the app, a card says something new showed up (e.g. a theme 3+ times in a week, a mood shift). No AI, no push, from week 3.
   - **User problem:** I want to be nudged when a pattern appears, like Apple Health trend alerts.

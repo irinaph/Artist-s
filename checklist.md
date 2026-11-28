@@ -42,10 +42,10 @@ personal use + portfolio case study · a companion for the 12-week course · mob
 - [x] **User journey with mental model:** for each step, note what happened, what was expected, what they think, what they feel → `research/journey.md` (v2 2026-11-23: role-play of the five hardest moments folded in; signed off 2026-11-27)
 - [x] **Persona walkthrough** (done 2026-11-27): role-play through 27 screens / 17 apps, six moments → `research/persona-walkthrough.md` + artifact; candidates C1–C4 waiting for my decision
 - [x] **Fresh-eyes review:** spawn 5 independent designer subagents with only the brief + persona + journey + user stories → `research/synthesis.md` (done 2026-11-27: 18 agreements, outliers; S1–S12 + S1b accepted)
-- [ ] **Scope the MVP:** confirm the v1 feature list; park everything else in `ideas.md`
+- [x] **Scope the MVP:** confirm the v1 feature list; park everything else in `ideas.md` (done 2026-11-28 → `project-scope.md` v1, provisional until the paper prototype's week 1)
   - [x] **User stories** with acceptance criteria → `research/user-stories.md` (v1.2 2026-11-27: 28 stories, 7 epics; open questions and fresh-eyes S1–S12 folded in)
   - [ ] **Paper prototype of the capture** (1–2 weeks: mood · 1–2 themes · one idea in the notebook margin) to test ideas-first patterns with real data (started 2026-11-27 → `research/paper-prototype.md`)
-- [ ] **Handoff:** `HANDOFF.md` + `project-scope.md` + a first prompt for the Design session
+- [x] **Handoff:** `HANDOFF.md` + `project-scope.md` + a first prompt for the Design session (2026-11-28)
 
 ## Phase 3 — UX flows (session: *Design*)
 - [ ] **First: the time and state model** (S3): course week vs calendar, what "pick up" shifts, day boundary, what counts as activity, a check-in not opened on day 7, one thing at a time on open → top of `design/flows.md`
