@@ -1,5 +1,5 @@
 # UX flows: Artist's Sketchbook v1
-**Phase 3: UX flows · started 2026-11-28 · v0.2 (time model decided; core flows drafted)**
+**Phase 3: UX flows · started 2026-11-28 · v0.3 (time model and core flows decided; states per screen drafted)**
 **Built from:** `project-scope.md` v1, `research/user-stories.md` v1.2, `project-plan.md` → Decisions (to 2026-11-28).
 
 ---
@@ -100,7 +100,7 @@ stateDiagram-v2
 ---
 
 ## 1. Core flows
-*Status: **draft v0.2, 2026-11-28**. Structure only: screen names and copy are placeholders until Phase 4; every line of copy will be our own words.*
+*Status: **decided 2026-11-28** (F-a–F-d approved as recommended). Structure only: screen names and copy are placeholders until Phase 4; every line of copy will be our own words.*
 
 ### 1.0 The map
 Three places, one tab bar. Every flow starts from one of them.
@@ -237,7 +237,7 @@ flowchart LR
 
 ---
 
-### 1.1 Decisions this needs (my recommendation first)
+### 1.1 Decisions (all approved as recommended, 2026-11-28)
 | # | Question | Recommend | Trade-off |
 |---|---|---|---|
 | **F-a** | Navigation | **Three tabs: Today · Ideas · Week** (Settings inside Week) | A tab bar costs ~56 px of height on every screen; a single scrolling Today would hide the pattern view, which is the product's reason to exist |
@@ -246,4 +246,149 @@ flowchart LR
 | **F-d** | Home-screen and card prompts | **one dismissible line on Today after onboarding, not a 3rd onboarding screen** | Easier to miss, but onboarding stays at 2 screens (US-01) |
 
 ## 2. States per screen
-*After the flows.*
+*Status: **draft v0.3, 2026-11-28**. Every state a screen can be in, so Phase 4 designs each one and Phase 5 tests each one. Course states are from §0.6; data states are about how much I've saved.*
+
+### 2.0 The states that apply everywhere
+| Kind | States |
+|---|---|
+| **Course** (§0.6) | not started · before start · day 1 · weeks 1–4 (early) · weeks 5–12 · comeback pending · day 84+ complete unseen · after the course · restarted from week 1 |
+| **Data** | empty · a few (< 5 captures, the "so far" level) · enough (≥ 5) · lots (long lists: headings, grouping, X1) |
+| **Language** | English only · Bulgarian only (`lang="bg"`) · mixed in one entry · long Cyrillic words (no clipping) |
+| **System** | saving · save failed (input kept, plain line + Retry, nothing lost) · storage unavailable on open (one plain screen, "your notes are safe, try again"; never an empty Today that looks like data loss) · offline (everything except AI links works) |
+| **Display** | light · dark · reduced motion · 200% text size · screen reader · phone width only (X5) |
+
+*Never a state anywhere:* missed day, missed week, broken streak, behind, overdue, a red or warning color (X2, US-09).
+
+### 2.1 Today (the hub)
+| State | Pages area | Yesterday control | Slot (§0.5) | Notes |
+|---|---|---|---|---|
+| **Before start** | Pages done works | when relevant | none | One line: when week 1 begins (T6) |
+| **Day 1, just onboarded** | Pages done | none | none | The one-time home-screen / card line (F-d) |
+| **No pages yet today** | **Pages done** (primary) | if yesterday has no entry | by priority | Add an idea (quiet) |
+| **Pages done today** | "Pages done ✓" + Undo + "They were shorter" | if yesterday has no entry | by priority | Calm, finished-looking (US-08) |
+| **Just undone** | back to Pages done; the undo line says what happened | — | — | Live region announces it |
+| **Shorter marked** | "Pages done ✓", shorter shown only to me, never as lesser | — | — | |
+| **Opened, no pages, nothing due** | Pages done | if relevant | empty | Finished-looking, no prompt to write (US-08) |
+| **After a gap < 14 days** | same as "no pages yet today" | if relevant | by priority | No welcome-back line (US-10) |
+| **Gap ≥ 14 days** | same | if relevant | **comeback card** | Today usable underneath (F7) |
+| **Check-in open** | same | — | **check-in invitation** | Dismissed → empty slot for the week |
+| **Day 84+, complete unseen** | same | — | **course complete** | |
+| **After the course, idea picked** | same | — | **the idea I'm carrying forward** | No idea text if… *(see note)* |
+| **After the course, none picked** | same | — | empty | |
+| **Save failed** | the tap shows "not saved yet" + Retry | — | — | Never shows ✓ before the save is confirmed |
+
+*Note:* S11 says Today shows no note or idea text. The carried-forward idea (US-24) is an idea on Today. **Recommend:** show it as "Your idea to keep going with" with the text **behind one tap** (open it), so the first screen stays safe for anyone holding the phone. → decision **S-a**.
+
+### 2.2 Capture sheet (F2)
+| State | What shows |
+|---|---|
+| **Empty** | Mood options, themes field, idea field; Save and Skip equal |
+| **Mood only** | Save enabled (valid capture) |
+| **Theme suggestions** | none yet (first capture) · my past themes, both languages, combobox · merged names only (US-14) |
+| **Two themes entered** | Field stops suggesting; a third can't be added (1–2 rule) |
+| **Heavy picked → saved** | One line (weeks 1–4 variant / week 5+ variant) + optional "What's clearer now?" + Skip |
+| **Clearer note saved** | Plain confirmation + quiet "Make it an idea" |
+| **For yesterday** | Same sheet, titled for yesterday; the date is never editable here |
+| **Editing an old capture** | Prefilled; Delete (with undo) as well as Save |
+| **Save failed** | Input kept in the sheet, Retry; closing asks nothing, but the input is held until the next open of the sheet that day |
+
+### 2.3 Idea sheet (F3)
+| State | What shows |
+|---|---|
+| **From Today** | Text field + source: on its own (default) / after an artist date |
+| **From an artist date** | Source preset "after an artist date", text empty |
+| **From a clearer note** | Text prefilled from the note; source "after a heavy page" |
+| **Empty text** | Save disabled, with the reason in text (not just a greyed button) |
+| **Save failed** | As 2.2 |
+
+### 2.4 Ideas tab (F4)
+| State | What shows |
+|---|---|
+| **Empty (no ideas, no themes)** | What will appear here and when, in one or two lines; no score, no "write more" (US-13) |
+| **Weeks 1–2, any data** | The "so far" list only; nothing pushed (US-13) |
+| **A few (< 5 captures)** | "So far": ideas newest first + themes counted |
+| **Enough (≥ 5)** | Recurring ideas → all ideas → themes (C2) |
+| **No links yet** | Recurring section shows how linking works (one line) instead of an empty heading |
+| **Ideas but no themes / themes but no ideas** | Only the section with content; the empty one is a single line, not a blank block |
+| **AI links off** | No suggestions row |
+| **AI on, suggestions waiting** | "Possible links (N)" row at the top |
+| **AI on, none / checking / failed / offline** | Row absent (none) · quiet "checking…" (no spinner loop for reduced motion) · nothing shown on fail, manual linking unchanged |
+| **Recap mode (US-15)** | Plain numbers of what I made + moods next to ideas; switch back to the list |
+| **After the course** | Same as "enough", plus the carried-forward idea marked |
+
+### 2.5 Idea detail, link and merge (F4)
+| Screen | States |
+|---|---|
+| **Idea detail** | single idea · a linked group (N wordings, each with its own context and `lang`) · source after pages / after a date / on its own / after a heavy page · linked to an artist date: planned / done with "what came out" / done without a note · the carried-forward idea |
+| **Same idea as…** | list of other ideas · search with no match (plain line) · only one idea exists (link not offered) · just linked (undo on screen) |
+| **AI pair** | both wordings side by side, Link / Not the same · after "Not the same", that pair never comes back |
+| **Merge themes** | fewer than 2 themes (merge not offered) · selecting · choosing the name · merged (undo on screen) · unmerged |
+| **Rename group** | the name I typed · reset to the first wording |
+
+### 2.6 Week tab: this week, all weeks (F8)
+| State | This week | All 12 weeks |
+|---|---|---|
+| **Before start** | "Starts on {date}" + artist date usable | 12 weeks listed, none current |
+| **Weeks 1–4** | week number + our theme + early framing on | current marked by text + shape |
+| **Weeks 5–12** | early framing off | |
+| **Check-in open / dismissed / done** | entry shown / still shown, not on Today / the reflection line shown | past weeks show their reflection if any; a week without one shows nothing about it |
+| **Just picked up (T1)** | "Week N, day 1" | the replayed week is current; past notes keep their labels |
+| **After the course** | the carried-forward idea + course complete reopen | all 12 as done, no score |
+
+### 2.7 Artist date (F5)
+| State | What shows |
+|---|---|
+| **Nothing planned** | Empty slot, neutral; Plan + a few small suggestions (weeks 1–4: "small counts") |
+| **Planned, no day / with a day** | The plan text; Done; Edit |
+| **Planned from an idea** | The idea named and linked |
+| **Done, no note / with a note** | ✓ + "What came out of it?" (optional) / the sentence |
+| **Done without a plan** | Done works on an empty slot |
+| **Plan carried over** | Last week's unfinished plan sits in this week's slot, no comment |
+| **A week with no date** | Neutral empty slot, no "missed" (US-19) |
+
+### 2.8 Check-in (F6)
+| State | What shows |
+|---|---|
+| **Week 1 (first check-in)** | Whatever surfaced, however little; early framing |
+| **Covers several weeks (T4)** | Labelled with its week; content since the last one opened |
+| **Nothing surfaced** | One calm line; counts of what I made (may all be zero → the counts block is left out, not shown as zeros) |
+| **AI suggestions waiting** | Confirm/reject pairs inline |
+| **No artist date this week** | One neutral line + one small at-home suggestion |
+| **Dismissed (Not now)** | Hidden from Today for the week; reachable from Week |
+| **Done** | Reflection saved; next week already open |
+| **Week 12** | Not shown (T5) |
+
+### 2.9 Comeback card (F7)
+| State | What shows |
+|---|---|
+| **Shown** | Inspiration line + two equal cards + "start again" link + dismiss |
+| **Last activity in week 1** | "Pick up" and "join" may both mean week 1–3; if they land on the **same week**, show one card: "Carry on in week N" (no fake choice) |
+| **Current week ≥ 12** | "Join" means the course is complete → that card reads as going to the look back (F9) |
+| **Chosen / dismissed** | One plain line "You're in week N", then the slot clears; not shown again for this gap |
+
+### 2.10 Course complete (F9)
+| State | What shows |
+|---|---|
+| **Rich** | Recurring ideas, idea → date → what came out |
+| **Thin (few ideas, no dates)** | What I made, plainly; never "only N"; the question still offered if any idea exists |
+| **No ideas at all** | The look back shows themes and dates; the "keep going with" question is left out |
+| **Idea picked / none for now** | Back to Today with the idea in the slot / empty slot |
+| **Reopened later** | Same content, the pick can be changed |
+| **Restarted after the course** | The old look back stays reopenable; a new course runs from week 1 |
+
+### 2.11 Onboarding (F1) and Settings (F10)
+| Screen | States |
+|---|---|
+| **Onboarding 1** | first visit · returning after "delete all my data" (same screen; no "welcome back") |
+| **Onboarding 2** | Today selected · a past date (allowed, up to 12 weeks back: lands in that week) · a future date (before-start state) |
+| **Settings** | AI links off / on (with the line on what's sent) · help resources off / on · start date: change sheet with the week-label note |
+| **Download my notes** | ready · empty data (file still made, with headers) · failed (Retry) |
+| **Delete all my data** | confirm with Download first → second confirm → deleting → onboarding 1 · failed (nothing deleted, Retry) |
+
+### 2.12 Decisions this needs (my recommendation first)
+| # | Question | Recommend | Trade-off |
+|---|---|---|---|
+| **S-a** | The carried-forward idea on Today vs S11 (no idea text on Today) | **Show a label, text one tap away** | One more tap to see my own idea, but the first screen stays safe to hand over |
+| **S-b** | Start date in the past | **Allowed, up to 12 weeks back** (e.g. I already started on paper) | A backdated start skips weeks 1–4 support if far back; the alternative (today or later only) breaks "I started last Monday" |
+| **S-c** | Comeback when both choices land on the same week | **Show one card, "Carry on in week N"** | Breaks the "two equal cards" pattern, but a choice between identical outcomes is fake |
+| **S-d** | A failed save | **Never show ✓ before the save is confirmed; input kept, Retry** | Feels a moment slower if storage is slow, but a ✓ that turns out false breaks "weeks of patterns are never lost" (US-25) |

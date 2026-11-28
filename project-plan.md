@@ -95,6 +95,11 @@
   - **T5 The course-complete look back replaces the week-12 check-in:** two summaries in a row would read as homework.
   - **T6 Everything works before the start date, labelled "before the course":** locking until day 1 contradicts "nothing locks".
   - **One invitation slot on Today, by priority:** comeback → course complete → check-in → carried-forward idea → nothing (US-08 one thing at a time).
+- **Core flows F-a–F-d (2026-11-28):** (`design/flows.md` §1)
+  - **F-a Three tabs: Today · Ideas · Week (Settings inside Week):** a single scrolling Today would bury the pattern view, the reason the app exists.
+  - **F-b Artist dates live in the Week tab, not Today:** one more tap to plan, but Today keeps its single slot (US-08).
+  - **F-c The capture is a sheet over Today:** Skip stays obvious and Today stays visible underneath, so it never feels like a form.
+  - **F-d Home-screen and notebook-card prompts are one dismissible line on Today after onboarding:** onboarding stays at 2 screens (US-01).
 
 ### Superseded by the reconcept (kept for the case study)
 - ~~MVP focus: building good habits~~ · ~~Start with 1–3 habits~~ · ~~Flexible frequency~~ · ~~Identity input: suggestions + free text~~ · ~~Name: Grains~~. These were Atomic Habits-specific. The old brief is in `archive/01-concept-brief-atomic-habits.md`.

@@ -49,13 +49,13 @@ personal use + portfolio case study · a companion for the 12-week course · mob
 
 ## Phase 3 — UX flows (session: *Design*)
 - [x] **First: the time and state model** (S3): course week vs calendar, what "pick up" shifts, day boundary, what counts as activity, a check-in not opened on day 7, one thing at a time on open → top of `design/flows.md` (decided 2026-11-28: T1–T6)
-- [ ] Map the core flows: **start the course** · **pages tap + 10 s capture** · **pattern view** · **artist date (plan/done + "what came out of it?" note)** · **weekly check-in** · **early support, weeks 1–4** · **light 12-week path** → `design/flows.md` (drafted v0.2 2026-11-28, F1–F10 + add an idea, linking, settings; F-a–F-d waiting for my decision)
+- [x] Map the core flows: **start the course** · **pages tap + 10 s capture** · **pattern view** · **artist date (plan/done + "what came out of it?" note)** · **weekly check-in** · **early support, weeks 1–4** · **light 12-week path** → `design/flows.md` (decided 2026-11-28: F1–F10 + add an idea, linking, settings; F-a–F-d)
 - [ ] Pattern research with 3 parallel Mobbin researchers, one per moment:
   - [ ] onboarding / starting a program
   - [ ] one-tap daily check-in + capture (mood check-ins, e.g. 5 Minute Journal)
   - [ ] mood / reflection tracking + pattern and insight views (accessible, not color-only; the Morning Pages leader's Insights as a contrast example)
   → artifact "Habit App Patterns"
-- [ ] List every state per screen: before start, first day, missed a day, missed a week (pause/continue choice), check-in skipped, week complete, course complete
+- [ ] List every state per screen: before start, first day, missed a day, missed a week (pause/continue choice), check-in skipped, week complete, course complete → `design/flows.md` §2 (draft 2026-11-28; S-a–S-d waiting for my decision)
 
 ## Phase 4 — UI design (session: *Design*, continued)
 - [ ] **Visual direction:** pick ONE reference app to borrow the style from (don't mix 10)
