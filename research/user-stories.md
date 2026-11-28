@@ -1,5 +1,5 @@
 # User stories: Artist's Sketchbook v1
-**Phase 2: Discovery, step "Scope the MVP" · 2026-11-27 · v1.2 (fresh-eyes candidates S1–S12 folded in; see `research/synthesis.md`)**
+**Phase 2: Discovery, step "Scope the MVP" · 2026-11-27 · v1.3 (fresh-eyes S1–S12 folded in; time model T1–T6 2026-11-28, see `design/flows.md` §0)**
 **Built from:** `01-concept-brief.md` (MVP scope), `research/persona.md` v4, `research/journey.md` v2 and every decision in `project-plan.md` up to 2026-11-27.
 
 ## How to read this
@@ -58,7 +58,8 @@ As a returning creative, I want to mark my pages done in one tap so that logging
 As a returning creative, I want to log yesterday's pages so that remembering late doesn't count as missed.
 - [ ] Logging for yesterday is one obvious control on the Today screen, not a hidden date picker.
 - [ ] Days older than yesterday can't be backfilled; they go through the comeback (US-10). *(Kept 2026-11-27; the paper prototype tests whether I want to copy older notes in, S10.)*
-- [ ] A new day starts at the time set in the time model (e.g. 4 a.m.), so a 00:30 log belongs to the night's day.
+- [ ] A new day starts at **4 a.m.** (T2), so a 00:30 log belongs to the night's day. Each entry's day is fixed when it's saved.
+- [ ] The yesterday control shows only while yesterday has no pages entry.
 *Source: decision "log late: today + yesterday"; journey step 2.* · *Evidence: decision.*
 
 **US-06 Optional capture** · Must
@@ -117,9 +118,9 @@ As a returning creative, I want the app to open on today after a gap so that I c
 
 **US-11 Come back after a missed week** · Must
 As a returning creative, I want to choose how to continue after a week away so that I never have to start over unless I want to.
-- [ ] After **14 days with no activity of any kind** (any tap counts), a **dismissible card on Today** (not a blocking screen) offers two choices: **pick up where I left off** or **join the current week**, as two equal cards (layout reference: Runna, C4). Neither is styled as the "right" one; no "missed" wording.
+- [ ] After **14 days with no activity** (anything saved counts; opening the app alone doesn't, T3), a **dismissible card on Today** (not a blocking screen) offers two choices: **pick up where I left off** or **join the current week**, as two equal cards (layout reference: Runna, C4). Neither is styled as the "right" one; no "missed" wording.
 - [ ] Shown once per gap; dismissing it keeps the current week.
-- [ ] What each choice does to the week number, day 7 and week 12 follows the time model (S3).
+- [ ] Join the current week (or dismiss) keeps the anchor; **pick up where I left off restarts the week I was in from its day 1** (T1), moving day 7 and week 12 by the same amount; past notes keep their week labels (`design/flows.md` §0.1).
 - [ ] **Start again from week 1** is available as a secondary option (e.g. a text link), never a primary button or default.
 - [ ] One sentence of inspiration, our own words.
 - [ ] The word "pause" isn't used in a way that reads as "wait until you're ready" (R7).
@@ -202,7 +203,9 @@ As a returning creative, I want an invited check-in on my day 7 that shows me wh
 - [ ] The artist date is **prefilled** from my taps; nothing is asked twice.
 - [ ] It **leads with what surfaced** (recurring ideas, themes, links); counts come after, small and neutral, and only of what I made (ideas, dates, notes), **never page days** (R3, S5).
 - [ ] If AI idea links are on, new suggestions can be confirmed here (US-28).
-- [ ] If I don't open it on day 7, it stays open until the next week's check-in; check-ins never stack (S3).
+- [ ] If I don't open it on day 7, it stays open until the next week's day 7, then is quietly replaced; check-ins never stack and are never called missed (T4).
+- [ ] It covers everything since the last check-in I opened (or day 1), labelled with its week (T4).
+- [ ] Week 12 has no check-in: the course-complete look back takes its place (T5, US-24).
 - [ ] A missing artist date: one neutral line + one small, at-home suggestion.
 - [ ] One optional reflection line, our own wording.
 - [ ] Takes **under 2 minutes**.
@@ -219,7 +222,8 @@ As a returning creative, I want to decide whether the app ever shows help resour
 As a returning creative, I want to see which week I'm in and its theme so that I feel the course frame without homework.
 - [ ] Current week number and a short theme in our own words (never the book's theme names); all 12 weeks visible, none locked.
 - [ ] No weekly task lists.
-- [ ] Which week is "current" follows the time model (S3).
+- [ ] Which week is "current" follows the time model (`design/flows.md` §0.1): calendar from the anchor date.
+- [ ] Before the start date, everything works and notes are labelled "before the course" (T6).
 *Source: brief; weekly tasks parked; fresh-eyes S8 (copyright).* · *Evidence: decision.*
 
 **US-23 Early support, weeks 1–4** · Must
@@ -230,7 +234,7 @@ As a returning creative, I want extra permission and calm in the first weeks so 
 
 **US-24 Course complete** · Must
 As a returning creative, I want a closing moment after week 12 that looks back at what surfaced so that the course has an ending.
-- [ ] Shown once after week 12; reopenable.
+- [ ] Shown once from day 84 (day 7 of week 12), in place of the week-12 check-in (T5); reopenable.
 - [ ] Leads with recurring ideas and what my dates produced (idea → date → what came out), not stats (uses US-15).
 - [ ] Then one optional question: which idea do I want to keep going with? Picking one (or none) is one tap.
 - [ ] After the course, the chosen idea is the first thing I see; "Pages done", capture and the pattern view keep working. Nothing locks or disappears.

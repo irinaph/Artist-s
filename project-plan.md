@@ -87,6 +87,14 @@
   - **S12 Accessibility additions, evidence tags on every story, demo copy moved to Phase 5:** role-play findings had become Must criteria without being marked as assumptions.
   - **Paper prototype +4 questions:** days written, ideas away from the pages, the same idea in new words, wanting older notes.
 - **Scope written before the paper prototype ends (2026-11-28):** `project-scope.md` v1 is provisional; the open items (thresholds, linking, backfill) don't block the Phase 3 flows, so waiting a week would only stall the time model.
+- **Time and state model T1–T6 (2026-11-28):** (`design/flows.md` §0; S3) course time follows the calendar from an anchor date that only pick up, start again or a Settings correction moves; notes keep their date, never a week number, so the past is never relabelled.
+  - **T1 "Pick up" restarts the week I was in from its day 1:** resuming on the exact day could put day 7 tomorrow, so the check-in would arrive at once.
+  - **T2 A new day starts at 4 a.m., fixed in v1:** a 00:30 log belongs to the night; a setting waits for real use to show a need.
+  - **T3 Activity = anything saved, not opening the app:** the gap only drives the 14-day card, and reading the app without logging is still time away from the course.
+  - **T4 A check-in not opened stays until the next day 7, covering everything since the last one opened:** nothing that surfaced is lost and check-ins never stack.
+  - **T5 The course-complete look back replaces the week-12 check-in:** two summaries in a row would read as homework.
+  - **T6 Everything works before the start date, labelled "before the course":** locking until day 1 contradicts "nothing locks".
+  - **One invitation slot on Today, by priority:** comeback → course complete → check-in → carried-forward idea → nothing (US-08 one thing at a time).
 
 ### Superseded by the reconcept (kept for the case study)
 - ~~MVP focus: building good habits~~ · ~~Start with 1–3 habits~~ · ~~Flexible frequency~~ · ~~Identity input: suggestions + free text~~ · ~~Name: Grains~~. These were Atomic Habits-specific. The old brief is in `archive/01-concept-brief-atomic-habits.md`.

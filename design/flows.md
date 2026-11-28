@@ -5,7 +5,7 @@
 ---
 
 ## 0. The time and state model (S3)
-*The spine of E3 and E6. Every flow below follows these rules. Status: **draft, waiting for my decisions (T1–T6 at the end of this section)**.*
+*The spine of E3 and E6. Every flow below follows these rules. Status: **decided 2026-11-28** (T1–T6 approved as recommended; logged in Decisions).*
 
 ### 0.1 Course time follows the calendar, from an anchor
 - The app stores one **anchor date**: course day 1. Set by the start date (US-01).
@@ -85,7 +85,7 @@ stateDiagram-v2
 | **Complete** | The look back is shown once and can be reopened |
 | **After** | Nothing locks. Week path shows the course as done; pages, capture, ideas and patterns keep working |
 
-### 0.7 Decisions this needs (my recommendation first)
+### 0.7 Decisions (all approved as recommended, 2026-11-28)
 | # | Question | Recommend | Trade-off |
 |---|---|---|---|
 | **T1** | "Pick up" resumes at… | **day 1 of the week I was in** | Part of a week replays. Resuming on the exact day can put day 7 tomorrow, so the check-in comes almost at once |
@@ -95,7 +95,7 @@ stateDiagram-v2
 | **T5** | Week 12 | **the course-complete look back replaces the week-12 check-in** | One fewer weekly reflection, but two summaries in a row would read as homework |
 | **T6** | Before the start date | **everything works, labelled "before the course"** | Notes before day 1 don't belong to a week; the alternative (locking until day 1) contradicts "nothing locks" |
 
-*When decided: log each in `project-plan.md` → Decisions; update US-05, US-11 (activity wording), US-20, US-22, US-24; tick the checklist item.*
+*Logged in `project-plan.md` → Decisions; US-05, US-11, US-20, US-22, US-24 updated (stories v1.3).*
 
 ---
 
